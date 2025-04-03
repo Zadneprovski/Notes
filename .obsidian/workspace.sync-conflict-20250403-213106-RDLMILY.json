@@ -1,0 +1,238 @@
+{
+  "main": {
+    "id": "52ffc791a0eff659",
+    "type": "split",
+    "children": [
+      {
+        "id": "24c9321295ac08c5",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "584c6780d833bc70",
+            "type": "leaf",
+            "pinned": true,
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Computer science.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "pinned": true,
+              "icon": "lucide-file",
+              "title": "Computer science"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "dd2adc6aaed91694",
+    "type": "split",
+    "children": [
+      {
+        "id": "c232914f3f436511",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "1a8e5e60b658dc00",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "byModifiedTime",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "413818ded50bd2ff",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "паро",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": true,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "030f91301a79d3f3",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "4cc78448835af07f",
+    "type": "split",
+    "children": [
+      {
+        "id": "e2ebd7db850deb55",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "b49865f528bedd9d",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Computer science.md",
+                "collapseAll": false,
+                "extraContext": true,
+                "sortOrder": "alphabetical",
+                "showSearch": true,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": false
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for Computer science"
+            }
+          },
+          {
+            "id": "2348e36fe3260e04",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Computer science.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": false
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from Computer science"
+            }
+          },
+          {
+            "id": "ae5113cf2ef7b380",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "f34c6baee719fabe",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Computer science.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline of Computer science"
+            }
+          }
+        ],
+        "currentTab": 3
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "obsidian-excalidraw-plugin:Create new drawing": false,
+      "3d-graph-new:Global 3D Graph": false
+    }
+  },
+  "active": "584c6780d833bc70",
+  "lastOpenFiles": [
+    "Пароли.md",
+    "C, C++.md",
+    "Справочник Резонит.md",
+    "Электроника.md",
+    "Соглашение о вызове функций (Calling Convention).md",
+    "Компиляторы.md",
+    "Computer science.md",
+    "4. AVR. Учебный курс. Простейшая программа..md",
+    "~syncthing~Соглашение о вызове функций (Calling Convention).md.tmp",
+    "~syncthing~Компиляторы.md.tmp",
+    "EEPROM в блоках управления.md",
+    "Автомобильные системы.md",
+    "Виды физической памяти и их отличия.md",
+    "Разделение памяти на код и данные у AVR.md",
+    "RAM память.md",
+    "Работа с базами данных в Java.md",
+    "Производительность.md",
+    "3. AVR. Учебный курс. Архитектура..md",
+    "Распиновка UC.md",
+    "Удаление ветки.md",
+    "Git.md",
+    "Слияние веток.md",
+    "Мусоровоз.md",
+    "Altium Designer.md",
+    "Лямбда-выражения.md",
+    "Приведение указателей или ссылок на объекты базового класса к указателям или ссылкам на производный класс.md",
+    "Итерация по массиву C++.md",
+    "files/Справочник_Резонит_1.11.2024.pdf",
+    "Требования к оформлению компонентов библиотек Altium.md",
+    "~syncthing~Нагрузочное тестирование.md.tmp",
+    "~syncthing~Computer science.md.tmp",
+    "~syncthing~Apache Kafka.md.tmp",
+    "~syncthing~Менеджер контекста.md.tmp",
+    "~syncthing~Python.md.tmp",
+    "~syncthing~Kafka в Python.md.tmp",
+    "~syncthing~Атрибут __dict__.md.tmp",
+    "files/Pasted image 20250218170632.png",
+    "files/Pasted image 20250117081108.png",
+    "files/Pasted image 20241227225811.png",
+    "files/Pasted image 20241227225206.png",
+    "files/Pasted image 20241227222754.png",
+    "files/Pasted image 20250114134546.png",
+    "files/Pasted image 20250114134347.png",
+    "files/Pasted image 20250114121300.png",
+    "files/Pasted image 20250114121216.png",
+    "files/Pasted image 20241220093427.png",
+    "Без названия.canvas",
+    "Untitled.canvas"
+  ]
+}

@@ -1,0 +1,223 @@
+{
+  "main": {
+    "id": "52ffc791a0eff659",
+    "type": "split",
+    "children": [
+      {
+        "id": "24c9321295ac08c5",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "584c6780d833bc70",
+            "type": "leaf",
+            "pinned": true,
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Computer science.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              },
+              "pinned": true,
+              "icon": "lucide-file",
+              "title": "Computer science"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "dd2adc6aaed91694",
+    "type": "split",
+    "children": [
+      {
+        "id": "c232914f3f436511",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "1a8e5e60b658dc00",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "byModifiedTime"
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "413818ded50bd2ff",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "права дос",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": true,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "030f91301a79d3f3",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "4cc78448835af07f",
+    "type": "split",
+    "children": [
+      {
+        "id": "e2ebd7db850deb55",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "b49865f528bedd9d",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Computer science.md",
+                "collapseAll": false,
+                "extraContext": true,
+                "sortOrder": "alphabetical",
+                "showSearch": true,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": false
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for Computer science"
+            }
+          },
+          {
+            "id": "2348e36fe3260e04",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Computer science.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": false
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from Computer science"
+            }
+          },
+          {
+            "id": "ae5113cf2ef7b380",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "f34c6baee719fabe",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Computer science.md"
+              },
+              "icon": "lucide-list",
+              "title": "Outline of Computer science"
+            }
+          }
+        ],
+        "currentTab": 3
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "obsidian-excalidraw-plugin:Create new drawing": false,
+      "3d-graph-new:Global 3D Graph": false
+    }
+  },
+  "active": "584c6780d833bc70",
+  "lastOpenFiles": [
+    "Git.md",
+    "Computer science.md",
+    "C++.md",
+    "Linux.md",
+    "Базовые команды Bash (Linux).md",
+    "Статические переменные внутри класса.md",
+    "ПО.md",
+    "Линейная регрессия.md",
+    "Алгоритм Брезенхэма.md",
+    "Очистка реестра.md",
+    "Windows.md",
+    "MMU и MPU.md",
+    "ПО для реверс инжиниринга.md",
+    "OpenVpn.md",
+    "Блок Keyless.md",
+    "Автомобильные системы.md",
+    "Линейно-квадратичный регулятор.md",
+    "Последовательность Баркера.md",
+    "CRTP или Рекурсивный шаблон.md",
+    "CAN на STM32F072.md",
+    "Шаблоны с переменным количеством параметров.md",
+    "Возврат массива из функции.md",
+    "Залить изменения в удаленный репозиторий, если эта ветка изменилась удаленно.md",
+    "Удаление ветки.md",
+    "Сбросить изменения.md",
+    "Возвращение к более раннему коммиту и создание от него ветки.md",
+    "~syncthing~Наследование.md.tmp",
+    "~syncthing~C++.md.tmp",
+    "~syncthing~Параметры по умолчанию.md.tmp",
+    "~syncthing~Константные методы класса.md.tmp",
+    "~syncthing~Распространение библиотек.md.tmp",
+    "~syncthing~reinterpret_cast.md.tmp",
+    "~syncthing~static_assert.md.tmp",
+    "~syncthing~Проверка типа.md.tmp",
+    "files/Pasted image 20250117081108.png",
+    "~syncthing~Таблицы виртуальных методов (vtable).md.tmp",
+    "~syncthing~Инлайновые функции.md.tmp",
+    "files/Pasted image 20241227225811.png",
+    "files/Pasted image 20241227225206.png",
+    "files/Pasted image 20241227222754.png",
+    "files/Pasted image 20250114134546.png",
+    "files/Pasted image 20250114134347.png",
+    "files/Pasted image 20250114121300.png",
+    "files/Pasted image 20250114121216.png",
+    "files/Pasted image 20241220093427.png",
+    "files/Pasted image 20241219141234.png",
+    "Без названия.canvas",
+    "Untitled.canvas"
+  ]
+}

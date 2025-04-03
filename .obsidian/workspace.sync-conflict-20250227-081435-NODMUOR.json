@@ -1,0 +1,221 @@
+{
+  "main": {
+    "id": "52ffc791a0eff659",
+    "type": "split",
+    "children": [
+      {
+        "id": "24c9321295ac08c5",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "584c6780d833bc70",
+            "type": "leaf",
+            "pinned": true,
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Computer science.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              },
+              "pinned": true
+            }
+          },
+          {
+            "id": "51a29a8f4636325e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Посчитать SHA-256 хеш.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "dd2adc6aaed91694",
+    "type": "split",
+    "children": [
+      {
+        "id": "c232914f3f436511",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "1a8e5e60b658dc00",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "byModifiedTime"
+              }
+            }
+          },
+          {
+            "id": "413818ded50bd2ff",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "git remo",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": true,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "030f91301a79d3f3",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "4cc78448835af07f",
+    "type": "split",
+    "children": [
+      {
+        "id": "e2ebd7db850deb55",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "b49865f528bedd9d",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Посчитать SHA-256 хеш.md",
+                "collapseAll": false,
+                "extraContext": true,
+                "sortOrder": "alphabetical",
+                "showSearch": true,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": false
+              }
+            }
+          },
+          {
+            "id": "2348e36fe3260e04",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Посчитать SHA-256 хеш.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": false
+              }
+            }
+          },
+          {
+            "id": "ae5113cf2ef7b380",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "f34c6baee719fabe",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Посчитать SHA-256 хеш.md"
+              }
+            }
+          }
+        ],
+        "currentTab": 3
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Меню быстрого перехода": false,
+      "graph:Граф": false,
+      "canvas:Создать новый холст": false,
+      "daily-notes:Сегодняшняя заметка": false,
+      "templates:Вставить шаблон": false,
+      "command-palette:Открыть палитру команд": false,
+      "obsidian-excalidraw-plugin:Create new drawing": false,
+      "3d-graph-new:Global 3D Graph": false
+    }
+  },
+  "active": "51a29a8f4636325e",
+  "lastOpenFiles": [
+    "Computer science.md",
+    "Посчитать SHA-256 хеш.md",
+    "Как настроить pre-commit хуки.md",
+    "Залить изменения с локального Git-репозитория на удаленный.md",
+    "Настройка CI со стандартными проверками - линтер, black, isort, mypy, и запуск тестов.md",
+    "~syncthing~args и kwargs.md.tmp",
+    "args и kwargs.md",
+    "~syncthing~Пароли.md.tmp",
+    "Пароли.md",
+    "Биполярные транзисторы в ключевом режиме.md",
+    "Биполярные транзисторы.md",
+    "Где установлено ПО.md",
+    "Транзисторы.md",
+    "Embedded.md",
+    "files/Pasted image 20250218170632.png",
+    "Параметры по умолчанию.md",
+    "Математика.md",
+    "Аппроксимация.md",
+    "Линейное преобразование или линейная интерполяция.md",
+    "Квадратный трехчлен.md",
+    "Линейная  алгебра.md",
+    "Определить количество цифр в числе.md",
+    "Таблицы виртуальных методов (vtable).md",
+    "C++.md",
+    "override.md",
+    "Наследование.md",
+    "Modbus.md",
+    "Примеры запросов и ответов для Modbus RTU.md",
+    "CRC (Cyclic Redundancy Check) в Modbus RTU.md",
+    "~syncthing~Наследование.md.tmp",
+    "~syncthing~C++.md.tmp",
+    "~syncthing~Параметры по умолчанию.md.tmp",
+    "~syncthing~Константные методы класса.md.tmp",
+    "~syncthing~Распространение библиотек.md.tmp",
+    "~syncthing~reinterpret_cast.md.tmp",
+    "~syncthing~static_assert.md.tmp",
+    "~syncthing~Проверка типа.md.tmp",
+    "files/Pasted image 20250117081108.png",
+    "files/Pasted image 20241227225811.png",
+    "files/Pasted image 20241227225206.png",
+    "files/Pasted image 20241227222754.png",
+    "files/Pasted image 20250114134546.png",
+    "files/Pasted image 20250114134347.png",
+    "files/Pasted image 20250114121300.png",
+    "files/Pasted image 20250114121216.png",
+    "files/Pasted image 20241220093427.png",
+    "Без названия.canvas",
+    "Untitled.canvas"
+  ]
+}

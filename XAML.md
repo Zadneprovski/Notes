@@ -1,0 +1,5 @@
+[[UpdateSourceTrigger]]
+[[Path]]
+[[Source и RelativeSource]]
+[[TargetNullValue]]
+[[ItemsControl]]

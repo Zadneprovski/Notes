@@ -1,0 +1,221 @@
+{
+  "main": {
+    "id": "38fa7d6a799e5969",
+    "type": "split",
+    "children": [
+      {
+        "id": "1df417be679a1c9d",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "214dbeb51d64ff0b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Пароли.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Пароли"
+            }
+          },
+          {
+            "id": "2e01c5b9b86d46b7",
+            "type": "leaf",
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "files/c_for_embedded_systems (4).pdf"
+              },
+              "icon": "lucide-file-text",
+              "title": "c_for_embedded_systems (4)"
+            }
+          },
+          {
+            "id": "db022c7dd1651a88",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Распиновка UC.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "Распиновка UC"
+            }
+          }
+        ],
+        "currentTab": 2
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "8e16f1219fe6e800",
+    "type": "mobile-drawer",
+    "children": [
+      {
+        "id": "ec2f7b48c59f3a8f",
+        "type": "leaf",
+        "state": {
+          "type": "file-explorer",
+          "state": {
+            "sortOrder": "byModifiedTime"
+          },
+          "icon": "lucide-folder-closed",
+          "title": "Файловый менеджер"
+        }
+      },
+      {
+        "id": "ba11e5bb82ac2d8e",
+        "type": "leaf",
+        "state": {
+          "type": "search",
+          "state": {
+            "query": "Распин",
+            "matchingCase": false,
+            "explainSearch": false,
+            "collapseAll": true,
+            "extraContext": false,
+            "sortOrder": "alphabetical"
+          },
+          "icon": "lucide-search",
+          "title": "Поиск"
+        }
+      },
+      {
+        "id": "df58e9111a661922",
+        "type": "leaf",
+        "state": {
+          "type": "tag",
+          "state": {
+            "sortOrder": "frequency",
+            "useHierarchy": true
+          },
+          "icon": "lucide-tags",
+          "title": "Теги"
+        }
+      },
+      {
+        "id": "a5d624ba749a55c9",
+        "type": "leaf",
+        "state": {
+          "type": "bookmarks",
+          "state": {},
+          "icon": "lucide-bookmark",
+          "title": "Закладки"
+        }
+      }
+    ],
+    "currentTab": 1
+  },
+  "right": {
+    "id": "e0c78be9b6257a00",
+    "type": "mobile-drawer",
+    "children": [
+      {
+        "id": "56d4bddf4534f09d",
+        "type": "leaf",
+        "state": {
+          "type": "backlink",
+          "state": {
+            "file": "Пароли.md",
+            "collapseAll": false,
+            "extraContext": false,
+            "sortOrder": "alphabetical",
+            "showSearch": true,
+            "searchQuery": "Udp",
+            "backlinkCollapsed": false,
+            "unlinkedCollapsed": true
+          },
+          "icon": "links-coming-in",
+          "title": "Обратные ссылки"
+        }
+      },
+      {
+        "id": "bc6d6a321843344c",
+        "type": "leaf",
+        "state": {
+          "type": "outgoing-link",
+          "state": {
+            "file": "Пароли.md",
+            "linksCollapsed": false,
+            "unlinkedCollapsed": true
+          },
+          "icon": "links-going-out",
+          "title": "Исходящие ссылки"
+        }
+      },
+      {
+        "id": "fd9d9e796b4874cf",
+        "type": "leaf",
+        "state": {
+          "type": "outline",
+          "state": {
+            "file": "Пароли.md"
+          },
+          "icon": "lucide-list",
+          "title": "Структура"
+        }
+      }
+    ],
+    "currentTab": 0
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Меню быстрого перехода": false,
+      "graph:Граф": false,
+      "canvas:Создать новый холст": false,
+      "daily-notes:Сегодняшняя заметка": false,
+      "templates:Вставить шаблон": false,
+      "command-palette:Открыть палитру команд": false,
+      "obsidian-excalidraw-plugin:Create new drawing": false
+    }
+  },
+  "active": "db022c7dd1651a88",
+  "lastOpenFiles": [
+    "Пароли.md",
+    "C++.md",
+    "Лямбда-выражения.md",
+    "Автомобильные системы.md",
+    "Разновидности ПО.md",
+    "CAN.md",
+    "Книги.md",
+    "Квадратный трехчлен.md",
+    "Математика.md",
+    "Распиновки ethernet патч кордов.md",
+    "files/c_for_embedded_systems (4).pdf",
+    "Вещества с одинаковой химической формулой, но различной пространственной ориентацией.md",
+    "Искусство схемотехники. Том1.md",
+    "RG.md",
+    "Распиновка UC.md",
+    "Удаление ветки.md",
+    "Сервер и API.md",
+    "Startup scripts для UC.md",
+    "Шаблонные параметры без типов (Non-Type Template Parameters).md",
+    "Пароли WiFi.md",
+    "Темы для изучения.md",
+    "Raspberry Pi.md",
+    "Разделы памяти.md",
+    "Видеопередача.md",
+    "Excalidraw/Drawing 2024-05-27 00.57.35.excalidraw.md",
+    "ViewModel.md",
+    "Разработка.md",
+    "Excalidraw",
+    "Untitled.canvas"
+  ]
+}

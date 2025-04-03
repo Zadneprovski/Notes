@@ -1,0 +1,1 @@
+Для установки флага компиляции с -O3 необходимо изменить Os на -O3 в файле platform.txt по пути `C:\Users\ZadneprovskiPC\AppData\Local\Arduino15\packages\arduino\hardware\avr\1.8.6`
