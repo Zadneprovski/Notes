@@ -34,12 +34,12 @@
             }
           },
           {
-            "id": "293b12e5ac782122",
+            "id": "08aa7d05f123fa6b",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "RgPowerConfigurator.md",
+                "file": "ARM.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -54,23 +54,11 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "RgPowerConfigurator"
-            }
-          },
-          {
-            "id": "c10de7ff95173ed5",
-            "type": "leaf",
-            "state": {
-              "type": "release-notes",
-              "state": {
-                "currentVersion": "1.8.4"
-              },
-              "icon": "lucide-book-up",
-              "title": "Release Notes 1.8.4"
+              "title": "ARM"
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -102,7 +90,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "rg",
+                "query": "распиновка",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -123,8 +111,7 @@
               "title": "Bookmarks"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -144,6 +131,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Эволюция ARM — архитектуры по поколениям.md",
                 "collapseAll": false,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -153,7 +141,7 @@
                 "unlinkedCollapsed": false
               },
               "icon": "links-coming-in",
-              "title": "Backlinks"
+              "title": "Backlinks for Эволюция ARM — архитектуры по поколениям"
             }
           },
           {
@@ -162,11 +150,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Эволюция ARM — архитектуры по поколениям.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               },
               "icon": "links-going-out",
-              "title": "Outgoing links"
+              "title": "Outgoing links from Эволюция ARM — архитектуры по поколениям"
             }
           },
           {
@@ -190,12 +179,13 @@
             "state": {
               "type": "outline",
               "state": {
+                "file": "Эволюция ARM — архитектуры по поколениям.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline"
+              "title": "Outline of Эволюция ARM — архитектуры по поколениям"
             }
           }
         ],
@@ -218,45 +208,46 @@
       "3d-graph-new:Global 3D Graph": false
     }
   },
-  "active": "c10de7ff95173ed5",
+  "active": "08aa7d05f123fa6b",
   "lastOpenFiles": [
-    "RG.md",
-    "Python.md",
+    "Соглашение о вызове функций (Calling Convention).md",
+    "Эволюция ARM — архитектуры по поколениям.md",
+    "ARM.md",
+    "Архитектура процессоров.md",
+    "CISC.md",
+    "RISC-V.md",
     "Computer science.md",
-    "Start.md",
-    "Git.md",
-    "C++.md",
-    "Linux.md",
-    "Базовые команды Bash (Linux).md",
-    "Статические переменные внутри класса.md",
-    "ПО.md",
-    "Линейная регрессия.md",
-    "Алгоритм Брезенхэма.md",
-    "Очистка реестра.md",
-    "Windows.md",
-    "MMU и MPU.md",
-    "ПО для реверс инжиниринга.md",
-    "OpenVpn.md",
-    "Блок Keyless.md",
+    "Altium Designer.md",
+    "Символьные устройства в Linux.md",
+    "Утилиты компилятора gcc-arm-none-eabi.md",
+    "Распиновка UC.md",
+    "Распиновки ethernet патч кордов.md",
+    "4. AVR. Учебный курс. Простейшая программа..md",
+    "~syncthing~Утилиты компилятора gcc-arm-none-eabi.md.tmp",
+    "~syncthing~Пароли.md.tmp",
+    "files/~syncthing~Database.kdbx.tmp",
+    "~syncthing~Соглашение о вызове функций (Calling Convention).md.tmp",
+    "Компиляторы.md",
+    "~syncthing~Компиляторы.md.tmp",
+    "EEPROM в блоках управления.md",
     "Автомобильные системы.md",
-    "Линейно-квадратичный регулятор.md",
-    "Последовательность Баркера.md",
-    "CRTP или Рекурсивный шаблон.md",
-    "CAN на STM32F072.md",
-    "Шаблоны с переменным количеством параметров.md",
-    "Возврат массива из функции.md",
-    "Залить изменения в удаленный репозиторий, если эта ветка изменилась удаленно.md",
-    "~syncthing~Наследование.md.tmp",
-    "~syncthing~C++.md.tmp",
-    "~syncthing~Параметры по умолчанию.md.tmp",
-    "~syncthing~Константные методы класса.md.tmp",
-    "~syncthing~Распространение библиотек.md.tmp",
-    "~syncthing~reinterpret_cast.md.tmp",
-    "~syncthing~static_assert.md.tmp",
-    "~syncthing~Проверка типа.md.tmp",
+    "Виды физической памяти и их отличия.md",
+    "Разделение памяти на код и данные у AVR.md",
+    "RAM память.md",
+    "Работа с базами данных в Java.md",
+    "Производительность.md",
+    "3. AVR. Учебный курс. Архитектура..md",
+    "Удаление ветки.md",
+    "Git.md",
+    "Слияние веток.md",
+    "Мусоровоз.md",
+    "files/Справочник_Резонит_1.11.2024.pdf",
+    "~syncthing~Нагрузочное тестирование.md.tmp",
+    "~syncthing~Computer science.md.tmp",
+    "~syncthing~Apache Kafka.md.tmp",
+    "~syncthing~Менеджер контекста.md.tmp",
+    "files/Pasted image 20250218170632.png",
     "files/Pasted image 20250117081108.png",
-    "~syncthing~Таблицы виртуальных методов (vtable).md.tmp",
-    "~syncthing~Инлайновые функции.md.tmp",
     "files/Pasted image 20241227225811.png",
     "files/Pasted image 20241227225206.png",
     "files/Pasted image 20241227222754.png",
@@ -265,7 +256,6 @@
     "files/Pasted image 20250114121300.png",
     "files/Pasted image 20250114121216.png",
     "files/Pasted image 20241220093427.png",
-    "files/Pasted image 20241219141234.png",
     "Без названия.canvas",
     "Untitled.canvas"
   ]

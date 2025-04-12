@@ -23,12 +23,12 @@
             }
           },
           {
-            "id": "51a29a8f4636325e",
+            "id": "6c8c25b586a94037",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Посчитать SHA-256 хеш.md",
+                "file": "Автоматика.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -65,7 +65,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "git remo",
+                "query": "windup",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -103,7 +103,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Посчитать SHA-256 хеш.md",
+                "file": "Автоматика.md",
                 "collapseAll": false,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -120,7 +120,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Посчитать SHA-256 хеш.md",
+                "file": "Автоматика.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -143,7 +143,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Посчитать SHA-256 хеш.md"
+                "file": "Автоматика.md"
               }
             }
           }
@@ -167,45 +167,45 @@
       "3d-graph-new:Global 3D Graph": false
     }
   },
-  "active": "51a29a8f4636325e",
+  "active": "413818ded50bd2ff",
   "lastOpenFiles": [
-    "Computer science.md",
-    "Посчитать SHA-256 хеш.md",
-    "Как настроить pre-commit хуки.md",
-    "Залить изменения с локального Git-репозитория на удаленный.md",
-    "Настройка CI со стандартными проверками - линтер, black, isort, mypy, и запуск тестов.md",
-    "~syncthing~args и kwargs.md.tmp",
-    "args и kwargs.md",
+    "ПИД регулятор.md",
+    "Распиновка UC.md",
+    "Распиновки ethernet патч кордов.md",
+    "4. AVR. Учебный курс. Простейшая программа..md",
+    "~syncthing~Утилиты компилятора gcc-arm-none-eabi.md.tmp",
+    "Утилиты компилятора gcc-arm-none-eabi.md",
     "~syncthing~Пароли.md.tmp",
-    "Пароли.md",
-    "Биполярные транзисторы в ключевом режиме.md",
-    "Биполярные транзисторы.md",
-    "Где установлено ПО.md",
-    "Транзисторы.md",
-    "Embedded.md",
+    "files/~syncthing~Database.kdbx.tmp",
+    "Соглашение о вызове функций (Calling Convention).md",
+    "~syncthing~Соглашение о вызове функций (Calling Convention).md.tmp",
+    "Компиляторы.md",
+    "~syncthing~Компиляторы.md.tmp",
+    "EEPROM в блоках управления.md",
+    "Автомобильные системы.md",
+    "Виды физической памяти и их отличия.md",
+    "Разделение памяти на код и данные у AVR.md",
+    "RAM память.md",
+    "Работа с базами данных в Java.md",
+    "Computer science.md",
+    "Производительность.md",
+    "3. AVR. Учебный курс. Архитектура..md",
+    "Удаление ветки.md",
+    "Git.md",
+    "Слияние веток.md",
+    "Мусоровоз.md",
+    "Altium Designer.md",
+    "Лямбда-выражения.md",
+    "Приведение указателей или ссылок на объекты базового класса к указателям или ссылкам на производный класс.md",
+    "C, C++.md",
+    "Итерация по массиву C++.md",
+    "Электроника.md",
+    "files/Справочник_Резонит_1.11.2024.pdf",
+    "~syncthing~Нагрузочное тестирование.md.tmp",
+    "~syncthing~Computer science.md.tmp",
+    "~syncthing~Apache Kafka.md.tmp",
+    "~syncthing~Менеджер контекста.md.tmp",
     "files/Pasted image 20250218170632.png",
-    "Параметры по умолчанию.md",
-    "Математика.md",
-    "Аппроксимация.md",
-    "Линейное преобразование или линейная интерполяция.md",
-    "Квадратный трехчлен.md",
-    "Линейная  алгебра.md",
-    "Определить количество цифр в числе.md",
-    "Таблицы виртуальных методов (vtable).md",
-    "C++.md",
-    "override.md",
-    "Наследование.md",
-    "Modbus.md",
-    "Примеры запросов и ответов для Modbus RTU.md",
-    "CRC (Cyclic Redundancy Check) в Modbus RTU.md",
-    "~syncthing~Наследование.md.tmp",
-    "~syncthing~C++.md.tmp",
-    "~syncthing~Параметры по умолчанию.md.tmp",
-    "~syncthing~Константные методы класса.md.tmp",
-    "~syncthing~Распространение библиотек.md.tmp",
-    "~syncthing~reinterpret_cast.md.tmp",
-    "~syncthing~static_assert.md.tmp",
-    "~syncthing~Проверка типа.md.tmp",
     "files/Pasted image 20250117081108.png",
     "files/Pasted image 20241227225811.png",
     "files/Pasted image 20241227225206.png",

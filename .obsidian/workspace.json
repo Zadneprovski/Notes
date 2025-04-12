@@ -34,12 +34,12 @@
             }
           },
           {
-            "id": "18faf6738807a5a1",
+            "id": "08aa7d05f123fa6b",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Залить изменения с локального Git-репозитория на удаленный.md",
+                "file": "Эволюция ARM — архитектуры по поколениям.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -54,7 +54,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Залить изменения с локального Git-репозитория на удаленный"
+              "title": "Эволюция ARM — архитектуры по поколениям"
             }
           }
         ],
@@ -90,7 +90,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "проектиро",
+                "query": "распиновка",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -131,7 +131,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Залить изменения с локального Git-репозитория на удаленный.md",
+                "file": "Эволюция ARM — архитектуры по поколениям.md",
                 "collapseAll": false,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -141,7 +141,7 @@
                 "unlinkedCollapsed": false
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Залить изменения с локального Git-репозитория на удаленный"
+              "title": "Backlinks for Эволюция ARM — архитектуры по поколениям"
             }
           },
           {
@@ -150,12 +150,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Залить изменения с локального Git-репозитория на удаленный.md",
+                "file": "Эволюция ARM — архитектуры по поколениям.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Залить изменения с локального Git-репозитория на удаленный"
+              "title": "Outgoing links from Эволюция ARM — архитектуры по поколениям"
             }
           },
           {
@@ -179,13 +179,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Залить изменения с локального Git-репозитория на удаленный.md",
+                "file": "Эволюция ARM — архитектуры по поколениям.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Залить изменения с локального Git-репозитория на удаленный"
+              "title": "Outline of Эволюция ARM — архитектуры по поколениям"
             }
           }
         ],
@@ -208,20 +208,26 @@
       "3d-graph-new:Global 3D Graph": false
     }
   },
-  "active": "18faf6738807a5a1",
+  "active": "08aa7d05f123fa6b",
   "lastOpenFiles": [
-    "Altium designer книга.md",
-    "Залить изменения с локального Git-репозитория на удаленный.md",
-    "git remote add origin.md",
-    "Computer science.md",
-    "Пароли.md",
-    "C, C++.md",
-    "Справочник Резонит.md",
-    "Электроника.md",
+    "ARM.md",
     "Соглашение о вызове функций (Calling Convention).md",
-    "Компиляторы.md",
+    "Эволюция ARM — архитектуры по поколениям.md",
+    "Архитектура процессоров.md",
+    "CISC.md",
+    "RISC-V.md",
+    "Computer science.md",
+    "Altium Designer.md",
+    "Символьные устройства в Linux.md",
+    "Утилиты компилятора gcc-arm-none-eabi.md",
+    "Распиновка UC.md",
+    "Распиновки ethernet патч кордов.md",
     "4. AVR. Учебный курс. Простейшая программа..md",
+    "~syncthing~Утилиты компилятора gcc-arm-none-eabi.md.tmp",
+    "~syncthing~Пароли.md.tmp",
+    "files/~syncthing~Database.kdbx.tmp",
     "~syncthing~Соглашение о вызове функций (Calling Convention).md.tmp",
+    "Компиляторы.md",
     "~syncthing~Компиляторы.md.tmp",
     "EEPROM в блоках управления.md",
     "Автомобильные системы.md",
@@ -231,21 +237,15 @@
     "Работа с базами данных в Java.md",
     "Производительность.md",
     "3. AVR. Учебный курс. Архитектура..md",
-    "Распиновка UC.md",
     "Удаление ветки.md",
     "Git.md",
     "Слияние веток.md",
     "Мусоровоз.md",
-    "Altium Designer.md",
-    "Лямбда-выражения.md",
     "files/Справочник_Резонит_1.11.2024.pdf",
     "~syncthing~Нагрузочное тестирование.md.tmp",
     "~syncthing~Computer science.md.tmp",
     "~syncthing~Apache Kafka.md.tmp",
     "~syncthing~Менеджер контекста.md.tmp",
-    "~syncthing~Python.md.tmp",
-    "~syncthing~Kafka в Python.md.tmp",
-    "~syncthing~Атрибут __dict__.md.tmp",
     "files/Pasted image 20250218170632.png",
     "files/Pasted image 20250117081108.png",
     "files/Pasted image 20241227225811.png",
