@@ -16,27 +16,73 @@
               "state": {
                 "file": "Computer science.md",
                 "mode": "source",
+                "source": false,
                 "backlinks": true,
-                "source": false
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
               },
-              "pinned": true
+              "pinned": true,
+              "icon": "lucide-file",
+              "title": "Computer science"
             }
           },
           {
-            "id": "6c8c25b586a94037",
+            "id": "93c9b03d8d23b76e",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Автоматика.md",
+                "file": "Статистика.md",
                 "mode": "source",
+                "source": false,
                 "backlinks": true,
-                "source": false
-              }
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "Статистика"
+            }
+          },
+          {
+            "id": "d6d56853817fd447",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "LaTex.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "LaTex"
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -55,8 +101,11 @@
             "state": {
               "type": "file-explorer",
               "state": {
-                "sortOrder": "byModifiedTime"
-              }
+                "sortOrder": "byModifiedTime",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
             }
           },
           {
@@ -65,13 +114,15 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "latex",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical"
-              }
+              },
+              "icon": "lucide-search",
+              "title": "Search"
             }
           },
           {
@@ -79,7 +130,9 @@
             "type": "leaf",
             "state": {
               "type": "bookmarks",
-              "state": {}
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
             }
           }
         ],
@@ -103,7 +156,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Автоматика.md",
+                "file": "LaTex.md",
                 "collapseAll": false,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -111,7 +164,9 @@
                 "searchQuery": "",
                 "backlinkCollapsed": false,
                 "unlinkedCollapsed": false
-              }
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for LaTex"
             }
           },
           {
@@ -120,10 +175,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Автоматика.md",
+                "file": "LaTex.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
-              }
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from LaTex"
             }
           },
           {
@@ -133,8 +190,12 @@
               "type": "tag",
               "state": {
                 "sortOrder": "frequency",
-                "useHierarchy": true
-              }
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
             }
           },
           {
@@ -143,8 +204,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Автоматика.md"
-              }
+                "file": "LaTex.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline of LaTex"
             }
           }
         ],
@@ -157,54 +223,54 @@
   },
   "left-ribbon": {
     "hiddenItems": {
-      "switcher:Меню быстрого перехода": false,
-      "graph:Граф": false,
-      "canvas:Создать новый холст": false,
-      "daily-notes:Сегодняшняя заметка": false,
-      "templates:Вставить шаблон": false,
-      "command-palette:Открыть палитру команд": false,
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
       "obsidian-excalidraw-plugin:Create new drawing": false,
       "3d-graph-new:Global 3D Graph": false
     }
   },
-  "active": "413818ded50bd2ff",
+  "active": "d6d56853817fd447",
   "lastOpenFiles": [
+    "Статистика.md",
+    "LaTex.md",
+    "Математика.md",
+    "Start.md",
+    "Computer science.md",
+    "Удаление ветки.md",
+    "ПИД регулятор.md",
+    "Автоматика.md",
+    "Лямбда-выражения.md",
+    "Естественные науки.md",
+    "~syncthing~Математика.md.tmp",
+    "~syncthing~Датчики.md.tmp",
+    "~syncthing~Статистика.md.tmp",
+    "~syncthing~Start.md.tmp",
+    "~syncthing~Физика, химия.md.tmp",
+    "~syncthing~Соглашение о вызове функций (Calling Convention).md.tmp",
     "Эволюция ARM — архитектуры по поколениям.md",
     "Символьные устройства в Linux.md",
     "~syncthing~Эволюция ARM — архитектуры по поколениям.md.tmp",
     "~syncthing~Символьные устройства в Linux.md.tmp",
     "~syncthing~ARM.md.tmp",
-    "ПИД регулятор.md",
     "Распиновка UC.md",
     "Распиновки ethernet патч кордов.md",
     "4. AVR. Учебный курс. Простейшая программа..md",
     "~syncthing~Утилиты компилятора gcc-arm-none-eabi.md.tmp",
     "Утилиты компилятора gcc-arm-none-eabi.md",
-    "~syncthing~Пароли.md.tmp",
-    "files/~syncthing~Database.kdbx.tmp",
     "Соглашение о вызове функций (Calling Convention).md",
-    "~syncthing~Соглашение о вызове функций (Calling Convention).md.tmp",
     "Компиляторы.md",
-    "~syncthing~Компиляторы.md.tmp",
     "EEPROM в блоках управления.md",
     "Автомобильные системы.md",
     "Виды физической памяти и их отличия.md",
     "Разделение памяти на код и данные у AVR.md",
     "RAM память.md",
     "Работа с базами данных в Java.md",
-    "Computer science.md",
     "Производительность.md",
     "3. AVR. Учебный курс. Архитектура..md",
-    "Удаление ветки.md",
-    "Git.md",
-    "Слияние веток.md",
-    "Мусоровоз.md",
-    "Altium Designer.md",
-    "Лямбда-выражения.md",
-    "Приведение указателей или ссылок на объекты базового класса к указателям или ссылкам на производный класс.md",
-    "C, C++.md",
-    "files/Справочник_Резонит_1.11.2024.pdf",
-    "~syncthing~Нагрузочное тестирование.md.tmp",
     "files/Pasted image 20250218170632.png",
     "files/Pasted image 20250117081108.png",
     "files/Pasted image 20241227225811.png",

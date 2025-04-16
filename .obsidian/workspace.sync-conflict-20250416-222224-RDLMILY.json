@@ -34,12 +34,12 @@
             }
           },
           {
-            "id": "3bab4610802d7125",
+            "id": "93c9b03d8d23b76e",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Altium Designer.md",
+                "file": "Статистика.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -54,11 +54,35 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Altium Designer"
+              "title": "Статистика"
+            }
+          },
+          {
+            "id": "d6d56853817fd447",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "LaTex.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "LaTex"
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -90,7 +114,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "alt",
+                "query": "latex",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -132,7 +156,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Altium Designer.md",
+                "file": "LaTex.md",
                 "collapseAll": false,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -142,7 +166,7 @@
                 "unlinkedCollapsed": false
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Altium Designer"
+              "title": "Backlinks for LaTex"
             }
           },
           {
@@ -151,12 +175,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Altium Designer.md",
+                "file": "LaTex.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Altium Designer"
+              "title": "Outgoing links from LaTex"
             }
           },
           {
@@ -180,13 +204,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Altium Designer.md",
+                "file": "LaTex.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Altium Designer"
+              "title": "Outline of LaTex"
             }
           }
         ],
@@ -209,43 +233,44 @@
       "3d-graph-new:Global 3D Graph": false
     }
   },
-  "active": "3bab4610802d7125",
+  "active": "d6d56853817fd447",
   "lastOpenFiles": [
-    "Электроника.md",
-    "Справочник Резонит.md",
-    "files/Справочник_Резонит_1.11.2024.pdf",
-    "Altium Designer.md",
-    "Требования к оформлению компонентов библиотек Altium.md",
-    "Ширина дорожки на печатной плате.md",
-    "Настройка высоты 3D-модели.md",
-    "Слои в Altium Designer.md",
-    "Правила.md",
-    "Добавление 3D-модели к footprint.md",
-    "Метапрограммирование в C++.md",
-    "C, C++.md",
+    "Статистика.md",
+    "LaTex.md",
+    "Математика.md",
+    "Start.md",
     "Computer science.md",
-    "Создание библиотек.md",
-    "Шаблон листа схемы.md",
-    "Контур платы.md",
-    "Keepout.md",
-    "Pad и Via.md",
-    "Правила дизайна.md",
-    "Переименование ветки.md",
-    "Изменение удаленного репозитория.md",
-    "Virtualenv.md",
+    "Удаление ветки.md",
+    "ПИД регулятор.md",
+    "Автоматика.md",
+    "Лямбда-выражения.md",
+    "Естественные науки.md",
+    "~syncthing~Математика.md.tmp",
+    "~syncthing~Датчики.md.tmp",
+    "~syncthing~Статистика.md.tmp",
+    "~syncthing~Start.md.tmp",
+    "~syncthing~Физика, химия.md.tmp",
+    "~syncthing~Соглашение о вызове функций (Calling Convention).md.tmp",
+    "Эволюция ARM — архитектуры по поколениям.md",
+    "Символьные устройства в Linux.md",
+    "~syncthing~Эволюция ARM — архитектуры по поколениям.md.tmp",
+    "~syncthing~Символьные устройства в Linux.md.tmp",
+    "~syncthing~ARM.md.tmp",
     "Распиновка UC.md",
-    "extern.md",
-    "HTTP.md",
-    "~syncthing~Нагрузочное тестирование.md.tmp",
-    "Нагрузочное тестирование.md",
-    "~syncthing~Computer science.md.tmp",
-    "~syncthing~Apache Kafka.md.tmp",
-    "~syncthing~Менеджер контекста.md.tmp",
-    "~syncthing~Python.md.tmp",
-    "~syncthing~Kafka в Python.md.tmp",
-    "~syncthing~Атрибут __dict__.md.tmp",
-    "~syncthing~Параметризация тестов в pytest.md.tmp",
-    "~syncthing~Фикстуры pytest.md.tmp",
+    "Распиновки ethernet патч кордов.md",
+    "4. AVR. Учебный курс. Простейшая программа..md",
+    "~syncthing~Утилиты компилятора gcc-arm-none-eabi.md.tmp",
+    "Утилиты компилятора gcc-arm-none-eabi.md",
+    "Соглашение о вызове функций (Calling Convention).md",
+    "Компиляторы.md",
+    "EEPROM в блоках управления.md",
+    "Автомобильные системы.md",
+    "Виды физической памяти и их отличия.md",
+    "Разделение памяти на код и данные у AVR.md",
+    "RAM память.md",
+    "Работа с базами данных в Java.md",
+    "Производительность.md",
+    "3. AVR. Учебный курс. Архитектура..md",
     "files/Pasted image 20250218170632.png",
     "files/Pasted image 20250117081108.png",
     "files/Pasted image 20241227225811.png",

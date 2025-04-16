@@ -34,12 +34,12 @@
             }
           },
           {
-            "id": "77dc6639aeb8a9ed",
+            "id": "93c9b03d8d23b76e",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Virtualenv.md",
+                "file": "Статистика.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -54,7 +54,31 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Virtualenv"
+              "title": "Статистика"
+            }
+          },
+          {
+            "id": "d6d56853817fd447",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "LaTex.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "LaTex"
             }
           }
         ],
@@ -90,7 +114,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "ven",
+                "query": "latex",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -132,7 +156,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Virtualenv.md",
+                "file": "Статистика.md",
                 "collapseAll": false,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -142,7 +166,7 @@
                 "unlinkedCollapsed": false
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Virtualenv"
+              "title": "Backlinks for Статистика"
             }
           },
           {
@@ -151,12 +175,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Virtualenv.md",
+                "file": "Статистика.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Virtualenv"
+              "title": "Outgoing links from Статистика"
             }
           },
           {
@@ -180,13 +204,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Virtualenv.md",
+                "file": "Статистика.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Virtualenv"
+              "title": "Outline of Статистика"
             }
           }
         ],
@@ -209,43 +233,44 @@
       "3d-graph-new:Global 3D Graph": false
     }
   },
-  "active": "77dc6639aeb8a9ed",
+  "active": "93c9b03d8d23b76e",
   "lastOpenFiles": [
-    "HTTP.md",
-    "~syncthing~Нагрузочное тестирование.md.tmp",
-    "Нагрузочное тестирование.md",
-    "~syncthing~Computer science.md.tmp",
-    "Сети.md",
+    "LaTex.md",
+    "Статистика.md",
+    "Математика.md",
+    "Start.md",
     "Computer science.md",
-    "Модель OSI (Open Systems Interconnection).md",
-    "Работа с сетью.md",
-    "Python.md",
-    "WebSocket.md",
-    "Установка и закрытие TCP-соединения.md",
     "Удаление ветки.md",
-    "Git.md",
-    "Параметры по умолчанию.md",
-    "C, C++.md",
-    "override.md",
+    "ПИД регулятор.md",
+    "Автоматика.md",
+    "Лямбда-выражения.md",
+    "Естественные науки.md",
+    "~syncthing~Математика.md.tmp",
+    "~syncthing~Датчики.md.tmp",
+    "~syncthing~Статистика.md.tmp",
+    "~syncthing~Start.md.tmp",
+    "~syncthing~Физика, химия.md.tmp",
+    "~syncthing~Соглашение о вызове функций (Calling Convention).md.tmp",
+    "Эволюция ARM — архитектуры по поколениям.md",
+    "Символьные устройства в Linux.md",
+    "~syncthing~Эволюция ARM — архитектуры по поколениям.md.tmp",
+    "~syncthing~Символьные устройства в Linux.md.tmp",
+    "~syncthing~ARM.md.tmp",
     "Распиновка UC.md",
-    "Посчитать SHA-256 хеш.md",
-    "Apache Kafka.md",
-    "~syncthing~Apache Kafka.md.tmp",
-    "Менеджер контекста.md",
-    "~syncthing~Менеджер контекста.md.tmp",
-    "Kafka в Python.md",
-    "~syncthing~Python.md.tmp",
-    "~syncthing~Kafka в Python.md.tmp",
-    "Фикстуры pytest.md",
-    "Слоты.md",
-    "Атрибут __dict__.md",
-    "Параметризация тестов в pytest.md",
-    "Дескрипторы.md",
-    "~syncthing~Атрибут __dict__.md.tmp",
-    "~syncthing~Параметризация тестов в pytest.md.tmp",
-    "~syncthing~Фикстуры pytest.md.tmp",
-    "~syncthing~Дескрипторы.md.tmp",
-    "расширения/vs9.png.md",
+    "Распиновки ethernet патч кордов.md",
+    "4. AVR. Учебный курс. Простейшая программа..md",
+    "~syncthing~Утилиты компилятора gcc-arm-none-eabi.md.tmp",
+    "Утилиты компилятора gcc-arm-none-eabi.md",
+    "Соглашение о вызове функций (Calling Convention).md",
+    "Компиляторы.md",
+    "EEPROM в блоках управления.md",
+    "Автомобильные системы.md",
+    "Виды физической памяти и их отличия.md",
+    "Разделение памяти на код и данные у AVR.md",
+    "RAM память.md",
+    "Работа с базами данных в Java.md",
+    "Производительность.md",
+    "3. AVR. Учебный курс. Архитектура..md",
     "files/Pasted image 20250218170632.png",
     "files/Pasted image 20250117081108.png",
     "files/Pasted image 20241227225811.png",
