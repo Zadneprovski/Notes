@@ -21,8 +21,22 @@
               },
               "pinned": true
             }
+          },
+          {
+            "id": "a7ad34f30cd2483e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Распиновка UC.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -51,7 +65,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "удал",
+                "query": "uc",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -89,7 +103,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Computer science.md",
+                "file": "Распиновка UC.md",
                 "collapseAll": false,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -106,7 +120,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Computer science.md",
+                "file": "Распиновка UC.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -129,7 +143,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Computer science.md"
+                "file": "Распиновка UC.md"
               }
             }
           }
@@ -153,16 +167,16 @@
       "3d-graph-new:Global 3D Graph": false
     }
   },
-  "active": "584c6780d833bc70",
+  "active": "a7ad34f30cd2483e",
   "lastOpenFiles": [
+    "Computer science.md",
+    "Статистика.md",
     "~syncthing~Статистика.md.tmp",
     "Удаление ветки.md",
-    "Computer science.md",
     "ПИД регулятор.md",
     "Автоматика.md",
     "Start.md",
     "Лямбда-выражения.md",
-    "Статистика.md",
     "Естественные науки.md",
     "~syncthing~Математика.md.tmp",
     "~syncthing~Датчики.md.tmp",

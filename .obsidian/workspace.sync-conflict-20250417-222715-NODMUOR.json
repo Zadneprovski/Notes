@@ -16,69 +16,23 @@
               "state": {
                 "file": "Computer science.md",
                 "mode": "source",
-                "source": false,
                 "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
+                "source": false
               },
-              "pinned": true,
-              "icon": "lucide-file",
-              "title": "Computer science"
+              "pinned": true
             }
           },
           {
-            "id": "93c9b03d8d23b76e",
+            "id": "a7ad34f30cd2483e",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Статистика.md",
+                "file": "Распиновка UC.md",
                 "mode": "source",
-                "source": false,
                 "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "Статистика"
-            }
-          },
-          {
-            "id": "d6d56853817fd447",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "LaTex.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "LaTex"
+                "source": false
+              }
             }
           }
         ],
@@ -101,11 +55,8 @@
             "state": {
               "type": "file-explorer",
               "state": {
-                "sortOrder": "byModifiedTime",
-                "autoReveal": false
-              },
-              "icon": "lucide-folder-closed",
-              "title": "Files"
+                "sortOrder": "byModifiedTime"
+              }
             }
           },
           {
@@ -114,15 +65,13 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "latex",
+                "query": "uc",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical"
-              },
-              "icon": "lucide-search",
-              "title": "Search"
+              }
             }
           },
           {
@@ -130,9 +79,7 @@
             "type": "leaf",
             "state": {
               "type": "bookmarks",
-              "state": {},
-              "icon": "lucide-bookmark",
-              "title": "Bookmarks"
+              "state": {}
             }
           }
         ],
@@ -156,7 +103,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Статистика.md",
+                "file": "Распиновка UC.md",
                 "collapseAll": false,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -164,9 +111,7 @@
                 "searchQuery": "",
                 "backlinkCollapsed": false,
                 "unlinkedCollapsed": false
-              },
-              "icon": "links-coming-in",
-              "title": "Backlinks for Статистика"
+              }
             }
           },
           {
@@ -175,12 +120,10 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Статистика.md",
+                "file": "Распиновка UC.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
-              },
-              "icon": "links-going-out",
-              "title": "Outgoing links from Статистика"
+              }
             }
           },
           {
@@ -190,12 +133,8 @@
               "type": "tag",
               "state": {
                 "sortOrder": "frequency",
-                "useHierarchy": true,
-                "showSearch": false,
-                "searchQuery": ""
-              },
-              "icon": "lucide-tags",
-              "title": "Tags"
+                "useHierarchy": true
+              }
             }
           },
           {
@@ -204,13 +143,8 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Статистика.md",
-                "followCursor": false,
-                "showSearch": false,
-                "searchQuery": ""
-              },
-              "icon": "lucide-list",
-              "title": "Outline of Статистика"
+                "file": "Распиновка UC.md"
+              }
             }
           }
         ],
@@ -223,31 +157,29 @@
   },
   "left-ribbon": {
     "hiddenItems": {
-      "switcher:Open quick switcher": false,
-      "graph:Open graph view": false,
-      "canvas:Create new canvas": false,
-      "daily-notes:Open today's daily note": false,
-      "templates:Insert template": false,
-      "command-palette:Open command palette": false,
+      "switcher:Меню быстрого перехода": false,
+      "graph:Граф": false,
+      "canvas:Создать новый холст": false,
+      "daily-notes:Сегодняшняя заметка": false,
+      "templates:Вставить шаблон": false,
+      "command-palette:Открыть палитру команд": false,
       "obsidian-excalidraw-plugin:Create new drawing": false,
       "3d-graph-new:Global 3D Graph": false
     }
   },
-  "active": "93c9b03d8d23b76e",
+  "active": "a7ad34f30cd2483e",
   "lastOpenFiles": [
-    "LaTex.md",
-    "Статистика.md",
-    "Математика.md",
-    "Start.md",
     "Computer science.md",
+    "Статистика.md",
+    "~syncthing~Статистика.md.tmp",
     "Удаление ветки.md",
     "ПИД регулятор.md",
     "Автоматика.md",
+    "Start.md",
     "Лямбда-выражения.md",
     "Естественные науки.md",
     "~syncthing~Математика.md.tmp",
     "~syncthing~Датчики.md.tmp",
-    "~syncthing~Статистика.md.tmp",
     "~syncthing~Start.md.tmp",
     "~syncthing~Физика, химия.md.tmp",
     "~syncthing~Соглашение о вызове функций (Calling Convention).md.tmp",
@@ -271,6 +203,7 @@
     "Работа с базами данных в Java.md",
     "Производительность.md",
     "3. AVR. Учебный курс. Архитектура..md",
+    "Git.md",
     "files/Pasted image 20250218170632.png",
     "files/Pasted image 20250117081108.png",
     "files/Pasted image 20241227225811.png",
