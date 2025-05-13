@@ -34,6 +34,54 @@
             }
           },
           {
+            "id": "93c9b03d8d23b76e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Виртуальные окружения.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "Виртуальные окружения"
+            }
+          },
+          {
+            "id": "bec9e118088edae7",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Удаление ветки.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "Удаление ветки"
+            }
+          },
+          {
             "id": "0c60a66a6563f051",
             "type": "leaf",
             "state": {
@@ -58,7 +106,7 @@
             }
           },
           {
-            "id": "bd7ed3868b8aae59",
+            "id": "741b9173e6edd34a",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -80,33 +128,9 @@
               "icon": "lucide-file",
               "title": "Статистика"
             }
-          },
-          {
-            "id": "8b50e6310ab893e5",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "CSharp.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "CSharp"
-            }
           }
         ],
-        "currentTab": 3
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -138,7 +162,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "удалени",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -159,7 +183,8 @@
               "title": "Bookmarks"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -179,7 +204,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "CSharp.md",
+                "file": "Статистика.md",
                 "collapseAll": false,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -189,7 +214,7 @@
                 "unlinkedCollapsed": false
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for CSharp"
+              "title": "Backlinks for Статистика"
             }
           },
           {
@@ -198,12 +223,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "CSharp.md",
+                "file": "Статистика.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from CSharp"
+              "title": "Outgoing links from Статистика"
             }
           },
           {
@@ -227,13 +252,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "CSharp.md",
+                "file": "Статистика.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of CSharp"
+              "title": "Outline of Статистика"
             }
           }
         ],
@@ -241,7 +266,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 297.5
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -255,24 +280,17 @@
       "3d-graph-new:Global 3D Graph": false
     }
   },
-  "active": "8b50e6310ab893e5",
+  "active": "741b9173e6edd34a",
   "lastOpenFiles": [
-    "INavigableView.md",
-    "CSharp.md",
-    "INavigationWindow.md",
-    "RgPowerConfigurator.md",
-    "Computer science.md",
-    "Класс App.md",
-    "Статистика.md",
-    "RG.md",
-    "Start.md",
     "Математика.md",
-    "LaTex.md",
-    "RISC-V.md",
-    "Архитектура процессоров.md",
-    "Виртуальные окружения.md",
+    "Аппроксимация.md",
+    "Статистика.md",
+    "Start.md",
+    "Computer science.md",
     "Удаление ветки.md",
     "Virtualenv.md",
+    "Виртуальные окружения.md",
+    "LaTex.md",
     "Активация и деактивация виртуального окружения.md",
     "Ковариационная матрица.md",
     "Распиновка UC.md",
@@ -284,6 +302,13 @@
     "Эволюция ARM — архитектуры по поколениям.md",
     "~syncthing~Статистика.md.tmp",
     "ARM.md",
+    "Архитектура процессоров.md",
+    "Git.md",
+    "Физика.md",
+    "Естественные науки.md",
+    "Автоматика.md",
+    "Оценка переменной во времени после наблюдений.md",
+    "ПИД регулятор.md",
     "~syncthing~Математика.md.tmp",
     "~syncthing~Датчики.md.tmp",
     "~syncthing~Start.md.tmp",

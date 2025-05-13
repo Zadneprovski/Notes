@@ -21,8 +21,48 @@
               },
               "pinned": true
             }
+          },
+          {
+            "id": "93c9b03d8d23b76e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Статистика.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "6cea0345e3272002",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Фильтр Калмана.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "0c60a66a6563f051",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "LaTex.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -51,7 +91,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "удал",
+                "query": "архит",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -89,7 +129,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Computer science.md",
+                "file": "LaTex.md",
                 "collapseAll": false,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -106,7 +146,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Computer science.md",
+                "file": "LaTex.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -129,7 +169,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Computer science.md"
+                "file": "LaTex.md"
               }
             }
           }
@@ -138,8 +178,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -153,23 +192,32 @@
       "3d-graph-new:Global 3D Graph": false
     }
   },
-  "active": "584c6780d833bc70",
+  "active": "0c60a66a6563f051",
   "lastOpenFiles": [
+    "Эволюция ARM — архитектуры по поколениям.md",
     "~syncthing~Статистика.md.tmp",
+    "ARM.md",
+    "Архитектура процессоров.md",
+    "Git.md",
     "Удаление ветки.md",
+    "LaTex.md",
+    "Удаление тега.md",
     "Computer science.md",
-    "ПИД регулятор.md",
-    "Автоматика.md",
-    "Start.md",
-    "Лямбда-выражения.md",
     "Статистика.md",
+    "Фильтр Калмана.md",
+    "Физика.md",
+    "Start.md",
     "Естественные науки.md",
+    "Математика.md",
+    "Автоматика.md",
+    "Оценка переменной во времени после наблюдений.md",
+    "ПИД регулятор.md",
+    "Лямбда-выражения.md",
     "~syncthing~Математика.md.tmp",
     "~syncthing~Датчики.md.tmp",
     "~syncthing~Start.md.tmp",
     "~syncthing~Физика, химия.md.tmp",
     "~syncthing~Соглашение о вызове функций (Calling Convention).md.tmp",
-    "Эволюция ARM — архитектуры по поколениям.md",
     "Символьные устройства в Linux.md",
     "~syncthing~Эволюция ARM — архитектуры по поколениям.md.tmp",
     "~syncthing~Символьные устройства в Linux.md.tmp",
@@ -181,15 +229,6 @@
     "Утилиты компилятора gcc-arm-none-eabi.md",
     "Соглашение о вызове функций (Calling Convention).md",
     "Компиляторы.md",
-    "EEPROM в блоках управления.md",
-    "Автомобильные системы.md",
-    "Виды физической памяти и их отличия.md",
-    "Разделение памяти на код и данные у AVR.md",
-    "RAM память.md",
-    "Работа с базами данных в Java.md",
-    "Производительность.md",
-    "3. AVR. Учебный курс. Архитектура..md",
-    "Git.md",
     "files/Pasted image 20250218170632.png",
     "files/Pasted image 20250117081108.png",
     "files/Pasted image 20241227225811.png",
