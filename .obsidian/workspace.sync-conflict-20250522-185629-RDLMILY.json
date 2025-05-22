@@ -80,57 +80,9 @@
               "icon": "lucide-file",
               "title": "Статистика"
             }
-          },
-          {
-            "id": "bba0b5639c4472a2",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "ItemsControl.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "ItemsControl"
-            }
-          },
-          {
-            "id": "c5ba768acf240698",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Макрос DBGMCU в STM32 - зачем нужен и как использовать.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "Макрос DBGMCU в STM32 - зачем нужен и как использовать"
-            }
           }
         ],
-        "currentTab": 4
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -162,7 +114,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "do while",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -183,8 +135,7 @@
               "title": "Bookmarks"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -204,7 +155,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Макрос DBGMCU в STM32 - зачем нужен и как использовать.md",
+                "file": "Статистика.md",
                 "collapseAll": false,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -214,7 +165,7 @@
                 "unlinkedCollapsed": false
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Макрос DBGMCU в STM32 - зачем нужен и как использовать"
+              "title": "Backlinks for Статистика"
             }
           },
           {
@@ -223,12 +174,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Макрос DBGMCU в STM32 - зачем нужен и как использовать.md",
+                "file": "Статистика.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Макрос DBGMCU в STM32 - зачем нужен и как использовать"
+              "title": "Outgoing links from Статистика"
             }
           },
           {
@@ -252,13 +203,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Макрос DBGMCU в STM32 - зачем нужен и как использовать.md",
+                "file": "Статистика.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Макрос DBGMCU в STM32 - зачем нужен и как использовать"
+              "title": "Outline of Статистика"
             }
           }
         ],
@@ -280,36 +231,36 @@
       "3d-graph-new:Global 3D Graph": false
     }
   },
-  "active": "c5ba768acf240698",
+  "active": "bd7ed3868b8aae59",
   "lastOpenFiles": [
-    "STM32.md",
-    "Макрос DBGMCU в STM32 - зачем нужен и как использовать.md",
-    "__IO.md",
-    "Embedded.md",
-    "Computer science.md",
-    "C, C++.md",
-    "Почему используется do { ...} while (0) в макросе.md",
-    "3. AVR. Учебный курс. Архитектура..md",
-    "Два подхода к проектированию ПО для embedded.md",
-    "new на stm32.md",
-    "constexpr и consteval.md",
-    "Проблема использования C++.md",
-    "Обзор ключевых технологий.md",
-    "Метапрограммирование в C++.md",
-    "ItemsControl.md",
-    "Path.md",
-    "RelayCommand.md",
-    "CSharp.md",
     "Эволюция механизма уведомления об изменениях.md",
+    "CSharp.md",
     "RgPowerConfigurator.md",
     "~syncthing~Статистика.md.tmp",
     "~syncthing~Оценка переменной во времени после наблюдений.md.tmp",
     "INavigableView.md",
     "INavigationWindow.md",
+    "Computer science.md",
     "Класс App.md",
     "Статистика.md",
     "RG.md",
     "Start.md",
+    "Математика.md",
+    "LaTex.md",
+    "RISC-V.md",
+    "Архитектура процессоров.md",
+    "Виртуальные окружения.md",
+    "Удаление ветки.md",
+    "Virtualenv.md",
+    "Активация и деактивация виртуального окружения.md",
+    "Ковариационная матрица.md",
+    "Распиновка UC.md",
+    "Линейная  алгебра.md",
+    "Set comprehension и list comprehension.md",
+    "Создание релиза.md",
+    "Удаление тега.md",
+    "Фильтр Калмана.md",
+    "Эволюция ARM — архитектуры по поколениям.md",
     "~syncthing~Математика.md.tmp",
     "~syncthing~Датчики.md.tmp",
     "~syncthing~Start.md.tmp",
