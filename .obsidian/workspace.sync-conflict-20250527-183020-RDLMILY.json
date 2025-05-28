@@ -58,12 +58,12 @@
             }
           },
           {
-            "id": "885c363962666947",
+            "id": "bd7ed3868b8aae59",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "STM32.md",
+                "file": "Статистика.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -78,11 +78,59 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "STM32"
+              "title": "Статистика"
+            }
+          },
+          {
+            "id": "73cfb931ca46c8af",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "ItemsControl.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "ItemsControl"
+            }
+          },
+          {
+            "id": "e452d0783825c440",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Reset and Clock Control (RCC).md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "Reset and Clock Control (RCC)"
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -155,7 +203,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Подсчет тактов.md",
+                "file": "Reset and Clock Control (RCC).md",
                 "collapseAll": false,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -165,7 +213,7 @@
                 "unlinkedCollapsed": false
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Подсчет тактов"
+              "title": "Backlinks for Reset and Clock Control (RCC)"
             }
           },
           {
@@ -174,12 +222,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Подсчет тактов.md",
+                "file": "Reset and Clock Control (RCC).md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Подсчет тактов"
+              "title": "Outgoing links from Reset and Clock Control (RCC)"
             }
           },
           {
@@ -203,13 +251,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "STM32.md",
+                "file": "Reset and Clock Control (RCC).md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of STM32"
+              "title": "Outline of Reset and Clock Control (RCC)"
             }
           }
         ],
@@ -231,31 +279,17 @@
       "3d-graph-new:Global 3D Graph": false
     }
   },
-  "active": "885c363962666947",
+  "active": "e452d0783825c440",
   "lastOpenFiles": [
-    "Бит-бэндинг.md",
     "STM32.md",
-    "System Memory.md",
-    "Цифровая подпись кода для микроконтроллеров.md",
-    "Функция в RAM на STM32 (GCC).md",
-    "Подсчет тактов.md",
-    "Что такое OTP в STM32.md",
-    "Изменение const-переменной в C++ — и почему это не сработает.md",
-    "C, C++.md",
-    "Computer science.md",
-    "CCM SRAM (Core Coupled Memory Static Random-Access Memory).md",
-    "Clock Security System (CSS).md",
     "Embedded.md",
-    "LaTex.md",
+    "Computer science.md",
     "ItemsControl.md",
-    "Reset and Clock Control (RCC).md",
-    "Parity Check.md",
-    "~syncthing~CCM SRAM (Core Coupled Memory Static Random-Access Memory).md.tmp",
-    "~syncthing~STM32.md.tmp",
-    "~syncthing~Parity Check.md.tmp",
     "XAML.md",
     "Стили.md",
+    "Reset and Clock Control (RCC).md",
     "~syncthing~Reset and Clock Control (RCC).md.tmp",
+    "~syncthing~STM32.md.tmp",
     "MSB, LSB, Big Endian и Little Endian.md",
     "I2C (TWI).md",
     "~syncthing~Embedded.md.tmp",
@@ -263,12 +297,26 @@
     "~syncthing~I2C (TWI).md.tmp",
     "General-purpose registers.md",
     "~syncthing~General-purpose registers.md.tmp",
+    "Бит-бэндинг.md",
     "~syncthing~Бит-бэндинг.md.tmp",
     "~syncthing~Program Status Register.md.tmp",
     "Регулятор напряжения в STM32 (Voltage Scaling).md",
     "Priority Grouping.md",
     "Что делают include guards.md",
+    "~syncthing~Обзор системных и периферийных обработчиков STM32.md.tmp",
+    "~syncthing~Priority Grouping.md.tmp",
     "Массивы AHBPrescTable и APBPrescTable.md",
+    "SysTick_Handler.md",
+    "PendSV_Handler.md",
+    "SVC_Handler.md",
+    "Обзор системных и периферийных обработчиков STM32.md",
+    "Порядок запуска STM32.md",
+    "Порядок запуска STM32 G431.md",
+    "Массивы для ItemsSource.md",
+    "UpdateSourceTrigger.md",
+    "Source и RelativeSource.md",
+    "Статистика.md",
+    "new на stm32.md",
     "files/Pasted image 20250218170632.png",
     "files/Pasted image 20250117081108.png",
     "files/Pasted image 20241227225811.png",

@@ -4,9 +4,11 @@
 [[FreeRTOS]]
 [[CAN]]
 [[AVR]]
-[[TWI or I2C]]
+[[I2C (TWI)]]
 [[Modbus]]
 [[Описание startup_stm32.s]]
 [[Два подхода к проектированию ПО для embedded]]
 [[Обзор ключевых технологий]]
 [[new на stm32]]
+[[MSB, LSB, Big Endian и Little Endian]]
+

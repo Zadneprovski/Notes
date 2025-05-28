@@ -58,12 +58,12 @@
             }
           },
           {
-            "id": "bd7ed3868b8aae59",
+            "id": "885c363962666947",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Статистика.md",
+                "file": "System Memory.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -78,7 +78,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Статистика"
+              "title": "System Memory"
             }
           }
         ],
@@ -114,7 +114,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "ItemsControl",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -155,7 +155,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Статистика.md",
+                "file": "Подсчет тактов.md",
                 "collapseAll": false,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -165,7 +165,7 @@
                 "unlinkedCollapsed": false
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Статистика"
+              "title": "Backlinks for Подсчет тактов"
             }
           },
           {
@@ -174,12 +174,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Статистика.md",
+                "file": "Подсчет тактов.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Статистика"
+              "title": "Outgoing links from Подсчет тактов"
             }
           },
           {
@@ -203,13 +203,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Статистика.md",
+                "file": "System Memory.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Статистика"
+              "title": "Outline of System Memory"
             }
           }
         ],
@@ -231,44 +231,44 @@
       "3d-graph-new:Global 3D Graph": false
     }
   },
-  "active": "bd7ed3868b8aae59",
+  "active": "885c363962666947",
   "lastOpenFiles": [
-    "Эволюция механизма уведомления об изменениях.md",
-    "CSharp.md",
-    "RgPowerConfigurator.md",
-    "~syncthing~Статистика.md.tmp",
-    "~syncthing~Оценка переменной во времени после наблюдений.md.tmp",
-    "INavigableView.md",
-    "INavigationWindow.md",
+    "Цифровая подпись кода для микроконтроллеров.md",
+    "System Memory.md",
+    "STM32.md",
+    "Функция в RAM на STM32 (GCC).md",
+    "Подсчет тактов.md",
+    "Что такое OTP в STM32.md",
+    "Изменение const-переменной в C++ — и почему это не сработает.md",
+    "C, C++.md",
     "Computer science.md",
-    "Класс App.md",
-    "Статистика.md",
-    "RG.md",
-    "Start.md",
-    "Математика.md",
+    "CCM SRAM (Core Coupled Memory Static Random-Access Memory).md",
+    "Clock Security System (CSS).md",
+    "Embedded.md",
     "LaTex.md",
-    "RISC-V.md",
-    "Архитектура процессоров.md",
-    "Виртуальные окружения.md",
-    "Удаление ветки.md",
-    "Virtualenv.md",
-    "Активация и деактивация виртуального окружения.md",
-    "Ковариационная матрица.md",
-    "Распиновка UC.md",
-    "Линейная  алгебра.md",
-    "Set comprehension и list comprehension.md",
-    "Создание релиза.md",
-    "Удаление тега.md",
-    "Фильтр Калмана.md",
-    "Эволюция ARM — архитектуры по поколениям.md",
-    "~syncthing~Математика.md.tmp",
-    "~syncthing~Датчики.md.tmp",
-    "~syncthing~Start.md.tmp",
-    "~syncthing~Физика, химия.md.tmp",
-    "~syncthing~Соглашение о вызове функций (Calling Convention).md.tmp",
-    "~syncthing~Эволюция ARM — архитектуры по поколениям.md.tmp",
-    "~syncthing~Символьные устройства в Linux.md.tmp",
-    "~syncthing~ARM.md.tmp",
+    "ItemsControl.md",
+    "Reset and Clock Control (RCC).md",
+    "Parity Check.md",
+    "~syncthing~CCM SRAM (Core Coupled Memory Static Random-Access Memory).md.tmp",
+    "~syncthing~STM32.md.tmp",
+    "~syncthing~Parity Check.md.tmp",
+    "XAML.md",
+    "Стили.md",
+    "~syncthing~Reset and Clock Control (RCC).md.tmp",
+    "MSB, LSB, Big Endian и Little Endian.md",
+    "I2C (TWI).md",
+    "~syncthing~Embedded.md.tmp",
+    "~syncthing~MSB, LSB, Big Endian и Little Endian.md.tmp",
+    "~syncthing~I2C (TWI).md.tmp",
+    "General-purpose registers.md",
+    "~syncthing~General-purpose registers.md.tmp",
+    "Бит-бэндинг.md",
+    "~syncthing~Бит-бэндинг.md.tmp",
+    "~syncthing~Program Status Register.md.tmp",
+    "Регулятор напряжения в STM32 (Voltage Scaling).md",
+    "Priority Grouping.md",
+    "Что делают include guards.md",
+    "Массивы AHBPrescTable и APBPrescTable.md",
     "files/Pasted image 20250218170632.png",
     "files/Pasted image 20250117081108.png",
     "files/Pasted image 20241227225811.png",

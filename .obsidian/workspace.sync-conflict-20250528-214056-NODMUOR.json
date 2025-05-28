@@ -23,7 +23,20 @@
             }
           },
           {
-            "id": "93c9b03d8d23b76e",
+            "id": "0c60a66a6563f051",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "LaTex.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "bd7ed3868b8aae59",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -36,12 +49,12 @@
             }
           },
           {
-            "id": "6cea0345e3272002",
+            "id": "73cfb931ca46c8af",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Фильтр Калмана.md",
+                "file": "Source и RelativeSource.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -49,12 +62,12 @@
             }
           },
           {
-            "id": "0c60a66a6563f051",
+            "id": "25999a1f89d60deb",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "LaTex.md",
+                "file": "STM32.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -62,7 +75,7 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -91,7 +104,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "архит",
+                "query": "ItemsControl",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -108,8 +121,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -129,7 +141,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "LaTex.md",
+                "file": "STM32.md",
                 "collapseAll": false,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -146,7 +158,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "LaTex.md",
+                "file": "STM32.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -169,7 +181,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "LaTex.md"
+                "file": "STM32.md"
               }
             }
           }
@@ -178,7 +190,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 297.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -192,43 +204,43 @@
       "3d-graph-new:Global 3D Graph": false
     }
   },
-  "active": "0c60a66a6563f051",
+  "active": "25999a1f89d60deb",
   "lastOpenFiles": [
-    "Эволюция ARM — архитектуры по поколениям.md",
-    "~syncthing~Статистика.md.tmp",
-    "ARM.md",
-    "Архитектура процессоров.md",
-    "Git.md",
-    "Удаление ветки.md",
-    "LaTex.md",
-    "Удаление тега.md",
+    "~syncthing~System Memory.md.tmp",
+    "~syncthing~Цифровая подпись кода для микроконтроллеров.md.tmp",
+    "Цифровая подпись кода для микроконтроллеров.md",
+    "System Memory.md",
+    "~syncthing~STM32.md.tmp",
+    "~syncthing~Функция в RAM на STM32 (GCC).md.tmp",
+    "Функция в RAM на STM32 (GCC).md",
+    "~syncthing~Что такое OTP в STM32.md.tmp",
+    "Что такое OTP в STM32.md",
+    "~syncthing~Изменение const-переменной в C++ — и почему это не сработает.md.tmp",
+    "Изменение const-переменной в C++ — и почему это не сработает.md",
+    "~syncthing~C, C++.md.tmp",
+    "Parity Check.md",
+    "STM32.md",
+    "Embedded.md",
+    "Clock Security System (CSS).md",
+    "CCM SRAM (Core Coupled Memory Static Random-Access Memory).md",
+    "new на stm32.md",
     "Computer science.md",
-    "Статистика.md",
-    "Фильтр Калмана.md",
-    "Физика.md",
-    "Start.md",
-    "Естественные науки.md",
-    "Математика.md",
-    "Автоматика.md",
-    "Оценка переменной во времени после наблюдений.md",
-    "ПИД регулятор.md",
-    "Лямбда-выражения.md",
-    "~syncthing~Математика.md.tmp",
-    "~syncthing~Датчики.md.tmp",
-    "~syncthing~Start.md.tmp",
-    "~syncthing~Физика, химия.md.tmp",
-    "~syncthing~Соглашение о вызове функций (Calling Convention).md.tmp",
-    "Символьные устройства в Linux.md",
-    "~syncthing~Эволюция ARM — архитектуры по поколениям.md.tmp",
-    "~syncthing~Символьные устройства в Linux.md.tmp",
-    "~syncthing~ARM.md.tmp",
-    "Распиновка UC.md",
-    "Распиновки ethernet патч кордов.md",
-    "4. AVR. Учебный курс. Простейшая программа..md",
-    "~syncthing~Утилиты компилятора gcc-arm-none-eabi.md.tmp",
-    "Утилиты компилятора gcc-arm-none-eabi.md",
-    "Соглашение о вызове функций (Calling Convention).md",
-    "Компиляторы.md",
+    "Source и RelativeSource.md",
+    "~syncthing~Clock Security System (CSS).md.tmp",
+    "~syncthing~Подсчет тактов.md.tmp",
+    "Подсчет тактов.md",
+    "~syncthing~Embedded.md.tmp",
+    "XAML.md",
+    "CSharp.md",
+    "RelayCommand.md",
+    "ItemsControl.md",
+    "Стили.md",
+    "Reset and Clock Control (RCC).md",
+    "MSB, LSB, Big Endian и Little Endian.md",
+    "I2C (TWI).md",
+    "General-purpose registers.md",
+    "Бит-бэндинг.md",
+    "Регулятор напряжения в STM32 (Voltage Scaling).md",
     "files/Pasted image 20250218170632.png",
     "files/Pasted image 20250117081108.png",
     "files/Pasted image 20241227225811.png",

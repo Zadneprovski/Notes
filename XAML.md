@@ -3,3 +3,5 @@
 [[Source и RelativeSource]]
 [[TargetNullValue]]
 [[ItemsControl]]
+[[Массивы для ItemsSource]]
+[[Стили]]

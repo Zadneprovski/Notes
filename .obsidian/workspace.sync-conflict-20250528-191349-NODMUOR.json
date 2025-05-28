@@ -21,8 +21,61 @@
               },
               "pinned": true
             }
+          },
+          {
+            "id": "0c60a66a6563f051",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "LaTex.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "bd7ed3868b8aae59",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Статистика.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "73cfb931ca46c8af",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Source и RelativeSource.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "25999a1f89d60deb",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "STM32.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -51,7 +104,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "удали",
+                "query": "ItemsControl",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -68,8 +121,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -89,7 +141,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Computer science.md",
+                "file": "STM32.md",
                 "collapseAll": false,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -106,7 +158,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Computer science.md",
+                "file": "STM32.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -129,7 +181,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Computer science.md"
+                "file": "STM32.md"
               }
             }
           }
@@ -138,8 +190,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 297.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -153,44 +204,44 @@
       "3d-graph-new:Global 3D Graph": false
     }
   },
-  "active": "584c6780d833bc70",
+  "active": "25999a1f89d60deb",
   "lastOpenFiles": [
-    "Статистика.md",
-    "Удаление ветки.md",
-    "Оценка переменной во времени после наблюдений.md",
-    "LaTex.md",
-    "Математика.md",
-    "Start.md",
+    "Parity Check.md",
+    "STM32.md",
+    "Embedded.md",
+    "Clock Security System (CSS).md",
+    "CCM SRAM (Core Coupled Memory Static Random-Access Memory).md",
+    "new на stm32.md",
     "Computer science.md",
-    "ПИД регулятор.md",
-    "Автоматика.md",
-    "Лямбда-выражения.md",
-    "Естественные науки.md",
-    "~syncthing~Математика.md.tmp",
-    "~syncthing~Датчики.md.tmp",
-    "~syncthing~Статистика.md.tmp",
-    "~syncthing~Start.md.tmp",
-    "~syncthing~Физика, химия.md.tmp",
-    "~syncthing~Соглашение о вызове функций (Calling Convention).md.tmp",
-    "Эволюция ARM — архитектуры по поколениям.md",
-    "Символьные устройства в Linux.md",
-    "~syncthing~Эволюция ARM — архитектуры по поколениям.md.tmp",
-    "~syncthing~Символьные устройства в Linux.md.tmp",
-    "~syncthing~ARM.md.tmp",
-    "Распиновка UC.md",
-    "Распиновки ethernet патч кордов.md",
-    "4. AVR. Учебный курс. Простейшая программа..md",
-    "~syncthing~Утилиты компилятора gcc-arm-none-eabi.md.tmp",
-    "Утилиты компилятора gcc-arm-none-eabi.md",
-    "Соглашение о вызове функций (Calling Convention).md",
-    "Компиляторы.md",
-    "EEPROM в блоках управления.md",
-    "Автомобильные системы.md",
-    "Виды физической памяти и их отличия.md",
-    "Разделение памяти на код и данные у AVR.md",
-    "RAM память.md",
-    "Работа с базами данных в Java.md",
-    "Производительность.md",
+    "Source и RelativeSource.md",
+    "~syncthing~STM32.md.tmp",
+    "~syncthing~Clock Security System (CSS).md.tmp",
+    "~syncthing~Подсчет тактов.md.tmp",
+    "Подсчет тактов.md",
+    "~syncthing~Embedded.md.tmp",
+    "XAML.md",
+    "CSharp.md",
+    "RelayCommand.md",
+    "ItemsControl.md",
+    "Стили.md",
+    "Reset and Clock Control (RCC).md",
+    "~syncthing~Reset and Clock Control (RCC).md.tmp",
+    "MSB, LSB, Big Endian и Little Endian.md",
+    "I2C (TWI).md",
+    "~syncthing~MSB, LSB, Big Endian и Little Endian.md.tmp",
+    "~syncthing~I2C (TWI).md.tmp",
+    "General-purpose registers.md",
+    "~syncthing~General-purpose registers.md.tmp",
+    "Бит-бэндинг.md",
+    "~syncthing~Бит-бэндинг.md.tmp",
+    "~syncthing~Program Status Register.md.tmp",
+    "Регулятор напряжения в STM32 (Voltage Scaling).md",
+    "Priority Grouping.md",
+    "Что делают include guards.md",
+    "Массивы AHBPrescTable и APBPrescTable.md",
+    "SysTick_Handler.md",
+    "PendSV_Handler.md",
+    "SVC_Handler.md",
     "files/Pasted image 20250218170632.png",
     "files/Pasted image 20250117081108.png",
     "files/Pasted image 20241227225811.png",

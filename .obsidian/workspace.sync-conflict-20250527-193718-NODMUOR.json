@@ -23,12 +23,38 @@
             }
           },
           {
-            "id": "a7ad34f30cd2483e",
+            "id": "0c60a66a6563f051",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Распиновка UC.md",
+                "file": "LaTex.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "bd7ed3868b8aae59",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Статистика.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "73cfb931ca46c8af",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Source и RelativeSource.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -36,7 +62,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -65,7 +91,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "uc",
+                "query": "ItemsControl",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -82,8 +108,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -103,7 +128,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Распиновка UC.md",
+                "file": "Source и RelativeSource.md",
                 "collapseAll": false,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -120,7 +145,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Распиновка UC.md",
+                "file": "Source и RelativeSource.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -143,7 +168,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Распиновка UC.md"
+                "file": "Source и RelativeSource.md"
               }
             }
           }
@@ -152,8 +177,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 297.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -167,43 +191,43 @@
       "3d-graph-new:Global 3D Graph": false
     }
   },
-  "active": "a7ad34f30cd2483e",
+  "active": "73cfb931ca46c8af",
   "lastOpenFiles": [
+    "~syncthing~Embedded.md.tmp",
+    "~syncthing~STM32.md.tmp",
+    "XAML.md",
+    "CSharp.md",
+    "RelayCommand.md",
+    "ItemsControl.md",
     "Computer science.md",
+    "Стили.md",
+    "Reset and Clock Control (RCC).md",
+    "~syncthing~Reset and Clock Control (RCC).md.tmp",
+    "MSB, LSB, Big Endian и Little Endian.md",
+    "I2C (TWI).md",
+    "~syncthing~MSB, LSB, Big Endian и Little Endian.md.tmp",
+    "~syncthing~I2C (TWI).md.tmp",
+    "General-purpose registers.md",
+    "~syncthing~General-purpose registers.md.tmp",
+    "Бит-бэндинг.md",
+    "~syncthing~Бит-бэндинг.md.tmp",
+    "~syncthing~Program Status Register.md.tmp",
+    "Регулятор напряжения в STM32 (Voltage Scaling).md",
+    "Priority Grouping.md",
+    "Что делают include guards.md",
+    "~syncthing~Обзор системных и периферийных обработчиков STM32.md.tmp",
+    "~syncthing~Priority Grouping.md.tmp",
+    "Массивы AHBPrescTable и APBPrescTable.md",
+    "SysTick_Handler.md",
+    "PendSV_Handler.md",
+    "SVC_Handler.md",
+    "Обзор системных и периферийных обработчиков STM32.md",
+    "Порядок запуска STM32.md",
+    "Порядок запуска STM32 G431.md",
+    "Массивы для ItemsSource.md",
+    "UpdateSourceTrigger.md",
+    "Source и RelativeSource.md",
     "Статистика.md",
-    "~syncthing~Статистика.md.tmp",
-    "Удаление ветки.md",
-    "ПИД регулятор.md",
-    "Автоматика.md",
-    "Start.md",
-    "Лямбда-выражения.md",
-    "Естественные науки.md",
-    "~syncthing~Математика.md.tmp",
-    "~syncthing~Датчики.md.tmp",
-    "~syncthing~Start.md.tmp",
-    "~syncthing~Физика, химия.md.tmp",
-    "~syncthing~Соглашение о вызове функций (Calling Convention).md.tmp",
-    "Эволюция ARM — архитектуры по поколениям.md",
-    "Символьные устройства в Linux.md",
-    "~syncthing~Эволюция ARM — архитектуры по поколениям.md.tmp",
-    "~syncthing~Символьные устройства в Linux.md.tmp",
-    "~syncthing~ARM.md.tmp",
-    "Распиновка UC.md",
-    "Распиновки ethernet патч кордов.md",
-    "4. AVR. Учебный курс. Простейшая программа..md",
-    "~syncthing~Утилиты компилятора gcc-arm-none-eabi.md.tmp",
-    "Утилиты компилятора gcc-arm-none-eabi.md",
-    "Соглашение о вызове функций (Calling Convention).md",
-    "Компиляторы.md",
-    "EEPROM в блоках управления.md",
-    "Автомобильные системы.md",
-    "Виды физической памяти и их отличия.md",
-    "Разделение памяти на код и данные у AVR.md",
-    "RAM память.md",
-    "Работа с базами данных в Java.md",
-    "Производительность.md",
-    "3. AVR. Учебный курс. Архитектура..md",
-    "Git.md",
     "files/Pasted image 20250218170632.png",
     "files/Pasted image 20250117081108.png",
     "files/Pasted image 20241227225811.png",

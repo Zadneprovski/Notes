@@ -34,54 +34,6 @@
             }
           },
           {
-            "id": "93c9b03d8d23b76e",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Виртуальные окружения.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "Виртуальные окружения"
-            }
-          },
-          {
-            "id": "bec9e118088edae7",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Удаление ветки.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "Удаление ветки"
-            }
-          },
-          {
             "id": "0c60a66a6563f051",
             "type": "leaf",
             "state": {
@@ -106,12 +58,12 @@
             }
           },
           {
-            "id": "741b9173e6edd34a",
+            "id": "885c363962666947",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Статистика.md",
+                "file": "STM32.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -126,11 +78,11 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Статистика"
+              "title": "STM32"
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -162,7 +114,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "удалени",
+                "query": "ItemsControl",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -183,8 +135,7 @@
               "title": "Bookmarks"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -204,7 +155,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Статистика.md",
+                "file": "Подсчет тактов.md",
                 "collapseAll": false,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -214,7 +165,7 @@
                 "unlinkedCollapsed": false
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Статистика"
+              "title": "Backlinks for Подсчет тактов"
             }
           },
           {
@@ -223,12 +174,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Статистика.md",
+                "file": "Подсчет тактов.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Статистика"
+              "title": "Outgoing links from Подсчет тактов"
             }
           },
           {
@@ -252,13 +203,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Статистика.md",
+                "file": "STM32.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Статистика"
+              "title": "Outline of STM32"
             }
           }
         ],
@@ -266,7 +217,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 297.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -280,44 +231,44 @@
       "3d-graph-new:Global 3D Graph": false
     }
   },
-  "active": "741b9173e6edd34a",
+  "active": "885c363962666947",
   "lastOpenFiles": [
-    "Математика.md",
-    "Аппроксимация.md",
-    "Статистика.md",
-    "Start.md",
+    "System Memory.md",
+    "Цифровая подпись кода для микроконтроллеров.md",
+    "STM32.md",
+    "Функция в RAM на STM32 (GCC).md",
+    "Подсчет тактов.md",
+    "Что такое OTP в STM32.md",
+    "Изменение const-переменной в C++ — и почему это не сработает.md",
+    "C, C++.md",
     "Computer science.md",
-    "Удаление ветки.md",
-    "Virtualenv.md",
-    "Виртуальные окружения.md",
+    "CCM SRAM (Core Coupled Memory Static Random-Access Memory).md",
+    "Clock Security System (CSS).md",
+    "Embedded.md",
     "LaTex.md",
-    "Активация и деактивация виртуального окружения.md",
-    "Ковариационная матрица.md",
-    "Распиновка UC.md",
-    "Линейная  алгебра.md",
-    "Set comprehension и list comprehension.md",
-    "Создание релиза.md",
-    "Удаление тега.md",
-    "Фильтр Калмана.md",
-    "Эволюция ARM — архитектуры по поколениям.md",
-    "~syncthing~Статистика.md.tmp",
-    "ARM.md",
-    "Архитектура процессоров.md",
-    "Git.md",
-    "Физика.md",
-    "Естественные науки.md",
-    "Автоматика.md",
-    "Оценка переменной во времени после наблюдений.md",
-    "ПИД регулятор.md",
-    "~syncthing~Математика.md.tmp",
-    "~syncthing~Датчики.md.tmp",
-    "~syncthing~Start.md.tmp",
-    "~syncthing~Физика, химия.md.tmp",
-    "~syncthing~Соглашение о вызове функций (Calling Convention).md.tmp",
-    "~syncthing~Эволюция ARM — архитектуры по поколениям.md.tmp",
-    "~syncthing~Символьные устройства в Linux.md.tmp",
-    "~syncthing~ARM.md.tmp",
-    "~syncthing~Утилиты компилятора gcc-arm-none-eabi.md.tmp",
+    "ItemsControl.md",
+    "Reset and Clock Control (RCC).md",
+    "Parity Check.md",
+    "~syncthing~CCM SRAM (Core Coupled Memory Static Random-Access Memory).md.tmp",
+    "~syncthing~STM32.md.tmp",
+    "~syncthing~Parity Check.md.tmp",
+    "XAML.md",
+    "Стили.md",
+    "~syncthing~Reset and Clock Control (RCC).md.tmp",
+    "MSB, LSB, Big Endian и Little Endian.md",
+    "I2C (TWI).md",
+    "~syncthing~Embedded.md.tmp",
+    "~syncthing~MSB, LSB, Big Endian и Little Endian.md.tmp",
+    "~syncthing~I2C (TWI).md.tmp",
+    "General-purpose registers.md",
+    "~syncthing~General-purpose registers.md.tmp",
+    "Бит-бэндинг.md",
+    "~syncthing~Бит-бэндинг.md.tmp",
+    "~syncthing~Program Status Register.md.tmp",
+    "Регулятор напряжения в STM32 (Voltage Scaling).md",
+    "Priority Grouping.md",
+    "Что делают include guards.md",
+    "Массивы AHBPrescTable и APBPrescTable.md",
     "files/Pasted image 20250218170632.png",
     "files/Pasted image 20250117081108.png",
     "files/Pasted image 20241227225811.png",
