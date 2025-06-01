@@ -39,7 +39,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "LaTex.md",
+                "file": "Markdown.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -54,7 +54,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "LaTex"
+              "title": "Markdown"
             }
           },
           {
@@ -114,7 +114,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "ItemsControl",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -135,7 +135,8 @@
               "title": "Bookmarks"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -233,42 +234,42 @@
   },
   "active": "885c363962666947",
   "lastOpenFiles": [
-    "Бит-бэндинг.md",
+    "Securable Memory Area (SMA).md",
     "STM32.md",
+    "Proprietary code readout protection (PCROP).md",
+    "Аппаратное предсказание ветвлений (branch prediction).md",
+    "Markdown.md",
+    "Подсчет тактов через Data Watchpoint and Trace Cycle Counter.md",
+    "Запись-стирание Flash.md",
+    "Память STM32.md",
+    "Режимы работы Flash - Single Bank и Dual Bank.md",
+    "LaTex.md",
+    "ART Accelerator (Adaptive Real-Time Accelerator).md",
+    "Error Code Correction (ECC).md",
     "System Memory.md",
-    "Цифровая подпись кода для микроконтроллеров.md",
-    "Функция в RAM на STM32 (GCC).md",
-    "Подсчет тактов.md",
     "Что такое OTP в STM32.md",
-    "Изменение const-переменной в C++ — и почему это не сработает.md",
-    "C, C++.md",
-    "Computer science.md",
     "CCM SRAM (Core Coupled Memory Static Random-Access Memory).md",
     "Clock Security System (CSS).md",
-    "Embedded.md",
-    "LaTex.md",
-    "ItemsControl.md",
     "Reset and Clock Control (RCC).md",
-    "Parity Check.md",
+    "General-purpose registers.md",
+    "Program Status Register.md",
+    "Priority Grouping.md",
+    "Макрос DBGMCU в STM32 - зачем нужен и как использовать.md",
+    "Бит-бэндинг.md",
+    "Цифровая подпись кода для микроконтроллеров.md",
+    "Функция в RAM на STM32 (GCC).md",
+    "Изменение const-переменной в C++ — и почему это не сработает.md",
+    "C, C++.md",
     "~syncthing~CCM SRAM (Core Coupled Memory Static Random-Access Memory).md.tmp",
     "~syncthing~STM32.md.tmp",
     "~syncthing~Parity Check.md.tmp",
-    "XAML.md",
-    "Стили.md",
     "~syncthing~Reset and Clock Control (RCC).md.tmp",
-    "MSB, LSB, Big Endian и Little Endian.md",
-    "I2C (TWI).md",
     "~syncthing~Embedded.md.tmp",
     "~syncthing~MSB, LSB, Big Endian и Little Endian.md.tmp",
     "~syncthing~I2C (TWI).md.tmp",
-    "General-purpose registers.md",
     "~syncthing~General-purpose registers.md.tmp",
     "~syncthing~Бит-бэндинг.md.tmp",
     "~syncthing~Program Status Register.md.tmp",
-    "Регулятор напряжения в STM32 (Voltage Scaling).md",
-    "Priority Grouping.md",
-    "Что делают include guards.md",
-    "Массивы AHBPrescTable и APBPrescTable.md",
     "files/Pasted image 20250218170632.png",
     "files/Pasted image 20250117081108.png",
     "files/Pasted image 20241227225811.png",

@@ -13,7 +13,7 @@
 [[General-purpose registers]]
 [[Бит-бэндинг]]
 [[Reset and Clock Control (RCC)]]
-[[Подсчет тактов]]
+[[Подсчет тактов через Data Watchpoint and Trace Cycle Counter]]
 [[Clock Security System (CSS)]]
 [[CCM SRAM (Core Coupled Memory Static Random-Access Memory)]]
 [[Parity Check]]
@@ -21,6 +21,14 @@
 [[Функция в RAM на STM32 (GCC)]]
 [[System Memory]]
 [[Цифровая подпись кода для микроконтроллеров]]
+[[Error Code Correction (ECC)]]
+[[ART Accelerator (Adaptive Real-Time Accelerator)]]
+[[Режимы работы Flash - Single Bank и Dual Bank]]
+[[Запись-стирание Flash]]
+[[Proprietary code readout protection (PCROP)]]
+[[Securable Memory Area (SMA)]]
+[[Аппаратное предсказание ветвлений (branch prediction)]]
+
 
 Когда тактирование определенной периферии выключено, доступ к периферийным регистрам для чтения или записи не поддерживается
 
