@@ -36,6 +36,7 @@
           {
             "id": "0c60a66a6563f051",
             "type": "leaf",
+            "pinned": true,
             "state": {
               "type": "markdown",
               "state": {
@@ -53,17 +54,18 @@
                   "unlinkedCollapsed": true
                 }
               },
+              "pinned": true,
               "icon": "lucide-file",
               "title": "LaTex"
             }
           },
           {
-            "id": "bd7ed3868b8aae59",
+            "id": "9310e6ad52a6741b",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Статистика.md",
+                "file": "core_cm4.h.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -78,16 +80,16 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Статистика"
+              "title": "core_cm4.h"
             }
           },
           {
-            "id": "73cfb931ca46c8af",
+            "id": "4d33033231b569b0",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "ItemsControl.md",
+                "file": "Флаги компилятора и линковщика в CMakeLists.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -102,35 +104,11 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "ItemsControl"
-            }
-          },
-          {
-            "id": "e452d0783825c440",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Reset and Clock Control (RCC).md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "Reset and Clock Control (RCC)"
+              "title": "Флаги компилятора и линковщика в CMakeLists"
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -162,7 +140,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "ItemsControl",
+                "query": "Передача пар",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -183,7 +161,8 @@
               "title": "Bookmarks"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -203,7 +182,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Reset and Clock Control (RCC).md",
+                "file": "Подсчет тактов через Data Watchpoint and Trace Cycle Counter.md",
                 "collapseAll": false,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -213,7 +192,7 @@
                 "unlinkedCollapsed": false
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Reset and Clock Control (RCC)"
+              "title": "Backlinks for Подсчет тактов через Data Watchpoint and Trace Cycle Counter"
             }
           },
           {
@@ -222,12 +201,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Reset and Clock Control (RCC).md",
+                "file": "Подсчет тактов через Data Watchpoint and Trace Cycle Counter.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Reset and Clock Control (RCC)"
+              "title": "Outgoing links from Подсчет тактов через Data Watchpoint and Trace Cycle Counter"
             }
           },
           {
@@ -251,13 +230,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Reset and Clock Control (RCC).md",
+                "file": "core_cm4.h.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Reset and Clock Control (RCC)"
+              "title": "Outline of core_cm4.h"
             }
           }
         ],
@@ -279,44 +258,44 @@
       "3d-graph-new:Global 3D Graph": false
     }
   },
-  "active": "e452d0783825c440",
+  "active": "9310e6ad52a6741b",
   "lastOpenFiles": [
-    "STM32.md",
+    "CMSIS.md",
+    "core_cm4.h.md",
+    "cmsis_gcc.h.md",
     "Embedded.md",
+    "Флаги компилятора и линковщика в CMakeLists.md",
     "Computer science.md",
-    "ItemsControl.md",
-    "XAML.md",
-    "Стили.md",
-    "Reset and Clock Control (RCC).md",
-    "~syncthing~Reset and Clock Control (RCC).md.tmp",
+    "STM32.md",
+    "Linker Script STM32F205.md",
+    "Описание startup_stm32.s.md",
+    "LaTex.md",
+    "Подсчет тактов через Data Watchpoint and Trace Cycle Counter.md",
+    "RelayCommand.md",
+    "Запись-стирание Flash.md",
+    "~syncthing~Запись-стирание Flash.md.tmp",
+    "~syncthing~CCM SRAM (Core Coupled Memory Static Random-Access Memory).md.tmp",
+    "Securable Memory Area (SMA).md",
+    "~syncthing~Securable Memory Area (SMA).md.tmp",
+    "~syncthing~Функция в RAM на STM32 (GCC).md.tmp",
+    "Error Code Correction (ECC).md",
+    "ART Accelerator (Adaptive Real-Time Accelerator).md",
+    "Proprietary code readout protection (PCROP).md",
+    "~syncthing~Proprietary code readout protection (PCROP).md.tmp",
+    "~syncthing~ART Accelerator (Adaptive Real-Time Accelerator).md.tmp",
+    "~syncthing~Error Code Correction (ECC).md.tmp",
+    "~syncthing~System Memory.md.tmp",
     "~syncthing~STM32.md.tmp",
-    "MSB, LSB, Big Endian и Little Endian.md",
-    "I2C (TWI).md",
-    "~syncthing~Embedded.md.tmp",
-    "~syncthing~MSB, LSB, Big Endian и Little Endian.md.tmp",
-    "~syncthing~I2C (TWI).md.tmp",
-    "General-purpose registers.md",
-    "~syncthing~General-purpose registers.md.tmp",
-    "Бит-бэндинг.md",
-    "~syncthing~Бит-бэндинг.md.tmp",
-    "~syncthing~Program Status Register.md.tmp",
-    "Регулятор напряжения в STM32 (Voltage Scaling).md",
-    "Priority Grouping.md",
-    "Что делают include guards.md",
-    "~syncthing~Обзор системных и периферийных обработчиков STM32.md.tmp",
-    "~syncthing~Priority Grouping.md.tmp",
-    "Массивы AHBPrescTable и APBPrescTable.md",
-    "SysTick_Handler.md",
-    "PendSV_Handler.md",
-    "SVC_Handler.md",
-    "Обзор системных и периферийных обработчиков STM32.md",
-    "Порядок запуска STM32.md",
-    "Порядок запуска STM32 G431.md",
-    "Массивы для ItemsSource.md",
-    "UpdateSourceTrigger.md",
-    "Source и RelativeSource.md",
-    "Статистика.md",
-    "new на stm32.md",
+    "Режимы работы Flash - Single Bank и Dual Bank.md",
+    "~syncthing~Подсчет тактов через Data Watchpoint and Trace Cycle Counter.md.tmp",
+    "Аппаратное предсказание ветвлений (branch prediction).md",
+    "CSharp.md",
+    "Изменение удаленного репозитория.md",
+    "Git.md",
+    "git remote add origin.md",
+    "Start.md",
+    "Естественные науки.md",
+    "Вещества с одинаковой химической формулой, но различной пространственной ориентацией.md",
     "files/Pasted image 20250218170632.png",
     "files/Pasted image 20250117081108.png",
     "files/Pasted image 20241227225811.png",

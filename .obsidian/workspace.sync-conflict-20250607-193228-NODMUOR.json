@@ -25,6 +25,7 @@
           {
             "id": "0c60a66a6563f051",
             "type": "leaf",
+            "pinned": true,
             "state": {
               "type": "markdown",
               "state": {
@@ -32,37 +33,12 @@
                 "mode": "source",
                 "backlinks": true,
                 "source": false
-              }
-            }
-          },
-          {
-            "id": "bd7ed3868b8aae59",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Статистика.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "73cfb931ca46c8af",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Source и RelativeSource.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
+              },
+              "pinned": true
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -91,7 +67,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "ItemsControl",
+                "query": "Шифро",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -108,7 +84,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -128,7 +105,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Source и RelativeSource.md",
+                "file": "LaTex.md",
                 "collapseAll": false,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -145,7 +122,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Source и RelativeSource.md",
+                "file": "LaTex.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -168,7 +145,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Source и RelativeSource.md"
+                "file": "LaTex.md"
               }
             }
           }
@@ -191,43 +168,44 @@
       "3d-graph-new:Global 3D Graph": false
     }
   },
-  "active": "73cfb931ca46c8af",
+  "active": "0c60a66a6563f051",
   "lastOpenFiles": [
-    "~syncthing~Embedded.md.tmp",
-    "~syncthing~STM32.md.tmp",
-    "XAML.md",
-    "CSharp.md",
+    "Алгоритм Диффи-Хеллмана.md",
+    "Асимметричное шифрование.md",
     "RelayCommand.md",
-    "ItemsControl.md",
+    "Запись-стирание Flash.md",
+    "~syncthing~Запись-стирание Flash.md.tmp",
+    "~syncthing~CCM SRAM (Core Coupled Memory Static Random-Access Memory).md.tmp",
+    "Securable Memory Area (SMA).md",
+    "~syncthing~Securable Memory Area (SMA).md.tmp",
+    "~syncthing~Функция в RAM на STM32 (GCC).md.tmp",
+    "Error Code Correction (ECC).md",
+    "ART Accelerator (Adaptive Real-Time Accelerator).md",
+    "Proprietary code readout protection (PCROP).md",
+    "~syncthing~Proprietary code readout protection (PCROP).md.tmp",
+    "~syncthing~ART Accelerator (Adaptive Real-Time Accelerator).md.tmp",
+    "~syncthing~Error Code Correction (ECC).md.tmp",
+    "~syncthing~System Memory.md.tmp",
+    "~syncthing~STM32.md.tmp",
+    "Режимы работы Flash - Single Bank и Dual Bank.md",
+    "Подсчет тактов через Data Watchpoint and Trace Cycle Counter.md",
+    "~syncthing~Подсчет тактов через Data Watchpoint and Trace Cycle Counter.md.tmp",
+    "Аппаратное предсказание ветвлений (branch prediction).md",
+    "CSharp.md",
     "Computer science.md",
-    "Стили.md",
-    "Reset and Clock Control (RCC).md",
-    "~syncthing~Reset and Clock Control (RCC).md.tmp",
-    "MSB, LSB, Big Endian и Little Endian.md",
-    "I2C (TWI).md",
-    "~syncthing~MSB, LSB, Big Endian и Little Endian.md.tmp",
-    "~syncthing~I2C (TWI).md.tmp",
-    "General-purpose registers.md",
-    "~syncthing~General-purpose registers.md.tmp",
+    "LaTex.md",
+    "Изменение удаленного репозитория.md",
+    "Git.md",
+    "git remote add origin.md",
+    "STM32.md",
+    "Start.md",
+    "Естественные науки.md",
+    "Вещества с одинаковой химической формулой, но различной пространственной ориентацией.md",
+    "Автоматика.md",
+    "Датчики.md",
+    "Embedded.md",
+    "Подсчет тактов.md",
     "Бит-бэндинг.md",
-    "~syncthing~Бит-бэндинг.md.tmp",
-    "~syncthing~Program Status Register.md.tmp",
-    "Регулятор напряжения в STM32 (Voltage Scaling).md",
-    "Priority Grouping.md",
-    "Что делают include guards.md",
-    "~syncthing~Обзор системных и периферийных обработчиков STM32.md.tmp",
-    "~syncthing~Priority Grouping.md.tmp",
-    "Массивы AHBPrescTable и APBPrescTable.md",
-    "SysTick_Handler.md",
-    "PendSV_Handler.md",
-    "SVC_Handler.md",
-    "Обзор системных и периферийных обработчиков STM32.md",
-    "Порядок запуска STM32.md",
-    "Порядок запуска STM32 G431.md",
-    "Массивы для ItemsSource.md",
-    "UpdateSourceTrigger.md",
-    "Source и RelativeSource.md",
-    "Статистика.md",
     "files/Pasted image 20250218170632.png",
     "files/Pasted image 20250117081108.png",
     "files/Pasted image 20241227225811.png",

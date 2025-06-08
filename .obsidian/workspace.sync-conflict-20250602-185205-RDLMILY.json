@@ -39,7 +39,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "LaTex.md",
+                "file": "Markdown.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -54,16 +54,16 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "LaTex"
+              "title": "Markdown"
             }
           },
           {
-            "id": "bd7ed3868b8aae59",
+            "id": "885c363962666947",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Статистика.md",
+                "file": "STM32.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -78,59 +78,11 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Статистика"
-            }
-          },
-          {
-            "id": "73cfb931ca46c8af",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "ItemsControl.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "ItemsControl"
-            }
-          },
-          {
-            "id": "e452d0783825c440",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Reset and Clock Control (RCC).md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "Reset and Clock Control (RCC)"
+              "title": "STM32"
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -162,7 +114,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "ItemsControl",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -183,7 +135,8 @@
               "title": "Bookmarks"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -203,7 +156,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Reset and Clock Control (RCC).md",
+                "file": "Подсчет тактов.md",
                 "collapseAll": false,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -213,7 +166,7 @@
                 "unlinkedCollapsed": false
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Reset and Clock Control (RCC)"
+              "title": "Backlinks for Подсчет тактов"
             }
           },
           {
@@ -222,12 +175,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Reset and Clock Control (RCC).md",
+                "file": "Подсчет тактов.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Reset and Clock Control (RCC)"
+              "title": "Outgoing links from Подсчет тактов"
             }
           },
           {
@@ -251,13 +204,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Reset and Clock Control (RCC).md",
+                "file": "STM32.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Reset and Clock Control (RCC)"
+              "title": "Outline of STM32"
             }
           }
         ],
@@ -279,44 +232,44 @@
       "3d-graph-new:Global 3D Graph": false
     }
   },
-  "active": "e452d0783825c440",
+  "active": "885c363962666947",
   "lastOpenFiles": [
+    "Securable Memory Area (SMA).md",
     "STM32.md",
-    "Embedded.md",
-    "Computer science.md",
-    "ItemsControl.md",
-    "XAML.md",
-    "Стили.md",
+    "Proprietary code readout protection (PCROP).md",
+    "Аппаратное предсказание ветвлений (branch prediction).md",
+    "Markdown.md",
+    "Подсчет тактов через Data Watchpoint and Trace Cycle Counter.md",
+    "Запись-стирание Flash.md",
+    "Память STM32.md",
+    "Режимы работы Flash - Single Bank и Dual Bank.md",
+    "LaTex.md",
+    "ART Accelerator (Adaptive Real-Time Accelerator).md",
+    "Error Code Correction (ECC).md",
+    "System Memory.md",
+    "Что такое OTP в STM32.md",
+    "CCM SRAM (Core Coupled Memory Static Random-Access Memory).md",
+    "Clock Security System (CSS).md",
     "Reset and Clock Control (RCC).md",
-    "~syncthing~Reset and Clock Control (RCC).md.tmp",
+    "General-purpose registers.md",
+    "Program Status Register.md",
+    "Priority Grouping.md",
+    "Макрос DBGMCU в STM32 - зачем нужен и как использовать.md",
+    "Бит-бэндинг.md",
+    "Цифровая подпись кода для микроконтроллеров.md",
+    "Функция в RAM на STM32 (GCC).md",
+    "Изменение const-переменной в C++ — и почему это не сработает.md",
+    "C, C++.md",
+    "~syncthing~CCM SRAM (Core Coupled Memory Static Random-Access Memory).md.tmp",
     "~syncthing~STM32.md.tmp",
-    "MSB, LSB, Big Endian и Little Endian.md",
-    "I2C (TWI).md",
+    "~syncthing~Parity Check.md.tmp",
+    "~syncthing~Reset and Clock Control (RCC).md.tmp",
     "~syncthing~Embedded.md.tmp",
     "~syncthing~MSB, LSB, Big Endian и Little Endian.md.tmp",
     "~syncthing~I2C (TWI).md.tmp",
-    "General-purpose registers.md",
     "~syncthing~General-purpose registers.md.tmp",
-    "Бит-бэндинг.md",
     "~syncthing~Бит-бэндинг.md.tmp",
     "~syncthing~Program Status Register.md.tmp",
-    "Регулятор напряжения в STM32 (Voltage Scaling).md",
-    "Priority Grouping.md",
-    "Что делают include guards.md",
-    "~syncthing~Обзор системных и периферийных обработчиков STM32.md.tmp",
-    "~syncthing~Priority Grouping.md.tmp",
-    "Массивы AHBPrescTable и APBPrescTable.md",
-    "SysTick_Handler.md",
-    "PendSV_Handler.md",
-    "SVC_Handler.md",
-    "Обзор системных и периферийных обработчиков STM32.md",
-    "Порядок запуска STM32.md",
-    "Порядок запуска STM32 G431.md",
-    "Массивы для ItemsSource.md",
-    "UpdateSourceTrigger.md",
-    "Source и RelativeSource.md",
-    "Статистика.md",
-    "new на stm32.md",
     "files/Pasted image 20250218170632.png",
     "files/Pasted image 20250117081108.png",
     "files/Pasted image 20241227225811.png",

@@ -11,4 +11,5 @@
 [[Обзор ключевых технологий]]
 [[new на stm32]]
 [[MSB, LSB, Big Endian и Little Endian]]
-
+[[Флаги компилятора и линковщика в CMakeLists]]
+[[CMSIS]]

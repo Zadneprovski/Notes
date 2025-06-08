@@ -77,8 +77,18 @@ private void ShowMessage(string? text)
 		Command="{Binding ShowMessageCommand}" 
 		CommandParameter="Привет"/>
 ```
----
 
+или так 
+
+```xml
+<controls:HexBox
+    x:Name="NewAddress"/>
+
+<ui:Button
+    CommandParameter="{Binding ElementName=NewAddress, Path=Value}"
+    Command="{Binding ViewModel.AddNewModemCommand}">
+</ui:Button>
+```
 ## Вызов `CanExecuteChanged` вручную
 
 Иногда нужно вручную обновить состояние кнопки. Используй:

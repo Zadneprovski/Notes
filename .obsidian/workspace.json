@@ -16,73 +16,29 @@
               "state": {
                 "file": "Computer science.md",
                 "mode": "source",
-                "source": false,
                 "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
+                "source": false
               },
-              "pinned": true,
-              "icon": "lucide-file",
-              "title": "Computer science"
+              "pinned": true
             }
           },
           {
             "id": "0c60a66a6563f051",
             "type": "leaf",
+            "pinned": true,
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Markdown.md",
+                "file": "LaTex.md",
                 "mode": "source",
-                "source": false,
                 "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
+                "source": false
               },
-              "icon": "lucide-file",
-              "title": "Markdown"
-            }
-          },
-          {
-            "id": "885c363962666947",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "STM32.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "STM32"
+              "pinned": true
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -101,11 +57,8 @@
             "state": {
               "type": "file-explorer",
               "state": {
-                "sortOrder": "byModifiedTime",
-                "autoReveal": false
-              },
-              "icon": "lucide-folder-closed",
-              "title": "Files"
+                "sortOrder": "byModifiedTime"
+              }
             }
           },
           {
@@ -114,15 +67,13 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "Шифро",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical"
-              },
-              "icon": "lucide-search",
-              "title": "Search"
+              }
             }
           },
           {
@@ -130,9 +81,7 @@
             "type": "leaf",
             "state": {
               "type": "bookmarks",
-              "state": {},
-              "icon": "lucide-bookmark",
-              "title": "Bookmarks"
+              "state": {}
             }
           }
         ],
@@ -156,7 +105,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Подсчет тактов.md",
+                "file": "LaTex.md",
                 "collapseAll": false,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -164,9 +113,7 @@
                 "searchQuery": "",
                 "backlinkCollapsed": false,
                 "unlinkedCollapsed": false
-              },
-              "icon": "links-coming-in",
-              "title": "Backlinks for Подсчет тактов"
+              }
             }
           },
           {
@@ -175,12 +122,10 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Подсчет тактов.md",
+                "file": "LaTex.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
-              },
-              "icon": "links-going-out",
-              "title": "Outgoing links from Подсчет тактов"
+              }
             }
           },
           {
@@ -190,12 +135,8 @@
               "type": "tag",
               "state": {
                 "sortOrder": "frequency",
-                "useHierarchy": true,
-                "showSearch": false,
-                "searchQuery": ""
-              },
-              "icon": "lucide-tags",
-              "title": "Tags"
+                "useHierarchy": true
+              }
             }
           },
           {
@@ -204,13 +145,8 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "STM32.md",
-                "followCursor": false,
-                "showSearch": false,
-                "searchQuery": ""
-              },
-              "icon": "lucide-list",
-              "title": "Outline of STM32"
+                "file": "LaTex.md"
+              }
             }
           }
         ],
@@ -222,54 +158,54 @@
   },
   "left-ribbon": {
     "hiddenItems": {
-      "switcher:Open quick switcher": false,
-      "graph:Open graph view": false,
-      "canvas:Create new canvas": false,
-      "daily-notes:Open today's daily note": false,
-      "templates:Insert template": false,
-      "command-palette:Open command palette": false,
+      "switcher:Меню быстрого перехода": false,
+      "graph:Граф": false,
+      "canvas:Создать новый холст": false,
+      "daily-notes:Сегодняшняя заметка": false,
+      "templates:Вставить шаблон": false,
+      "command-palette:Открыть палитру команд": false,
       "obsidian-excalidraw-plugin:Create new drawing": false,
       "3d-graph-new:Global 3D Graph": false
     }
   },
-  "active": "885c363962666947",
+  "active": "0c60a66a6563f051",
   "lastOpenFiles": [
-    "Securable Memory Area (SMA).md",
-    "STM32.md",
-    "Proprietary code readout protection (PCROP).md",
-    "Аппаратное предсказание ветвлений (branch prediction).md",
-    "Markdown.md",
-    "Подсчет тактов через Data Watchpoint and Trace Cycle Counter.md",
-    "Запись-стирание Flash.md",
-    "Память STM32.md",
-    "Режимы работы Flash - Single Bank и Dual Bank.md",
-    "LaTex.md",
-    "ART Accelerator (Adaptive Real-Time Accelerator).md",
-    "Error Code Correction (ECC).md",
-    "System Memory.md",
-    "Что такое OTP в STM32.md",
-    "CCM SRAM (Core Coupled Memory Static Random-Access Memory).md",
-    "Clock Security System (CSS).md",
-    "Reset and Clock Control (RCC).md",
-    "General-purpose registers.md",
-    "Program Status Register.md",
-    "Priority Grouping.md",
-    "Макрос DBGMCU в STM32 - зачем нужен и как использовать.md",
-    "Бит-бэндинг.md",
-    "Цифровая подпись кода для микроконтроллеров.md",
-    "Функция в RAM на STM32 (GCC).md",
-    "Изменение const-переменной в C++ — и почему это не сработает.md",
-    "C, C++.md",
-    "~syncthing~CCM SRAM (Core Coupled Memory Static Random-Access Memory).md.tmp",
-    "~syncthing~STM32.md.tmp",
-    "~syncthing~Parity Check.md.tmp",
-    "~syncthing~Reset and Clock Control (RCC).md.tmp",
+    "~syncthing~CRTP или Рекурсивный шаблон.md.tmp",
+    "~syncthing~Скрипт для сохранения изменений в файл.md.tmp",
+    "Скрипт для сохранения изменений в файл.md",
+    "~syncthing~Git.md.tmp",
+    "core_cm4.h.md",
+    "Флаги компилятора и линковщика в CMakeLists.md",
+    "cmsis_gcc.h.md",
+    "CMSIS.md",
+    "~syncthing~core_cm4.h.md.tmp",
+    "~syncthing~cmsis_gcc.h.md.tmp",
+    "~syncthing~Флаги компилятора и линковщика в CMakeLists.md.tmp",
+    "~syncthing~CMSIS.md.tmp",
     "~syncthing~Embedded.md.tmp",
-    "~syncthing~MSB, LSB, Big Endian и Little Endian.md.tmp",
-    "~syncthing~I2C (TWI).md.tmp",
-    "~syncthing~General-purpose registers.md.tmp",
-    "~syncthing~Бит-бэндинг.md.tmp",
-    "~syncthing~Program Status Register.md.tmp",
+    "Алгоритм Диффи-Хеллмана.md",
+    "Асимметричное шифрование.md",
+    "RelayCommand.md",
+    "Запись-стирание Flash.md",
+    "~syncthing~Запись-стирание Flash.md.tmp",
+    "~syncthing~CCM SRAM (Core Coupled Memory Static Random-Access Memory).md.tmp",
+    "Securable Memory Area (SMA).md",
+    "~syncthing~Securable Memory Area (SMA).md.tmp",
+    "Error Code Correction (ECC).md",
+    "ART Accelerator (Adaptive Real-Time Accelerator).md",
+    "Proprietary code readout protection (PCROP).md",
+    "Режимы работы Flash - Single Bank и Dual Bank.md",
+    "Подсчет тактов через Data Watchpoint and Trace Cycle Counter.md",
+    "Аппаратное предсказание ветвлений (branch prediction).md",
+    "CSharp.md",
+    "Computer science.md",
+    "LaTex.md",
+    "Изменение удаленного репозитория.md",
+    "Git.md",
+    "git remote add origin.md",
+    "STM32.md",
+    "Start.md",
+    "Естественные науки.md",
     "files/Pasted image 20250218170632.png",
     "files/Pasted image 20250117081108.png",
     "files/Pasted image 20241227225811.png",
