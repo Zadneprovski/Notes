@@ -11,6 +11,10 @@
 
 #### Пример:
 ```xml
+<Page.Resources>
+
+</Page.Resources>
+
 <TextBox Text="{Binding Path=UserInput, Source={StaticResource MyViewModel}}" />
 ```
 Здесь:
