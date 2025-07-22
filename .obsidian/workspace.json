@@ -16,10 +16,21 @@
               "state": {
                 "file": "Computer science.md",
                 "mode": "source",
+                "source": false,
                 "backlinks": true,
-                "source": false
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
               },
-              "pinned": true
+              "pinned": true,
+              "icon": "lucide-file",
+              "title": "Computer science"
             }
           },
           {
@@ -31,10 +42,21 @@
               "state": {
                 "file": "LaTex.md",
                 "mode": "source",
+                "source": false,
                 "backlinks": true,
-                "source": false
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
               },
-              "pinned": true
+              "pinned": true,
+              "icon": "lucide-file",
+              "title": "LaTex"
             }
           }
         ],
@@ -57,8 +79,11 @@
             "state": {
               "type": "file-explorer",
               "state": {
-                "sortOrder": "byModifiedTime"
-              }
+                "sortOrder": "byModifiedTime",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
             }
           },
           {
@@ -67,13 +92,15 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "const",
+                "query": "Геометрический центр",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical"
-              }
+              },
+              "icon": "lucide-search",
+              "title": "Search"
             }
           },
           {
@@ -81,7 +108,9 @@
             "type": "leaf",
             "state": {
               "type": "bookmarks",
-              "state": {}
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
             }
           }
         ],
@@ -113,7 +142,9 @@
                 "searchQuery": "",
                 "backlinkCollapsed": false,
                 "unlinkedCollapsed": false
-              }
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for LaTex"
             }
           },
           {
@@ -125,7 +156,9 @@
                 "file": "LaTex.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
-              }
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from LaTex"
             }
           },
           {
@@ -135,8 +168,12 @@
               "type": "tag",
               "state": {
                 "sortOrder": "frequency",
-                "useHierarchy": true
-              }
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
             }
           },
           {
@@ -145,8 +182,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "LaTex.md"
-              }
+                "file": "LaTex.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline of LaTex"
             }
           }
         ],
@@ -158,47 +200,47 @@
   },
   "left-ribbon": {
     "hiddenItems": {
-      "switcher:Меню быстрого перехода": false,
-      "graph:Граф": false,
-      "canvas:Создать новый холст": false,
-      "daily-notes:Сегодняшняя заметка": false,
-      "templates:Вставить шаблон": false,
-      "command-palette:Открыть палитру команд": false,
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
       "obsidian-excalidraw-plugin:Create new drawing": false,
       "3d-graph-new:Global 3D Graph": false
     }
   },
   "active": "0c60a66a6563f051",
   "lastOpenFiles": [
-    "MSB, LSB, Big Endian и Little Endian.md",
-    "Embedded.md",
+    "Виды разъемов.md",
+    "Требования к оформлению компонентов библиотек Altium.md",
+    "Altium Designer.md",
+    "Настройка высоты 3D-модели.md",
+    "Pad и Via.md",
+    "Параметр Plated (металлизация отверстий).md",
+    "Электроника.md",
+    "Start.md",
     "Computer science.md",
+    "RG.md",
+    "Датчики.md",
+    "Автомобильные системы.md",
+    "Embedded.md",
+    "Правила дизайна.md",
+    "Проверка толщин материалов платы.md",
+    "Шаблон листа схемы.md",
+    "Контур платы.md",
+    "Правила.md",
+    "Слои в Altium Designer.md",
+    "LaTex.md",
+    "MSB, LSB, Big Endian и Little Endian.md",
     "C, C++.md",
     "Константные методы класса.md",
     "Source и RelativeSource.md",
-    "Start.md",
     "XAML.md",
     "Стили.md",
-    "DataContext.md",
-    "Отобразить биндинге свойство и текст.md",
-    "CSharp.md",
-    "Вывод статуса выполнения асинхронной задачи.md",
-    "Асинхронность.md",
-    "Разница между StaticResource и DynamicResource в WPF.md",
-    "Динамические стили в WPF.md",
-    "TargetNullValue.md",
-    "Path.md",
-    "UpdateSourceTrigger.md",
-    "Передача нескольких параметров в команду.md",
-    "INavigationWindow.md",
-    "LaTex.md",
     "~syncthing~CRTP или Рекурсивный шаблон.md.tmp",
     "~syncthing~Скрипт для сохранения изменений в файл.md.tmp",
-    "Скрипт для сохранения изменений в файл.md",
     "~syncthing~Git.md.tmp",
-    "core_cm4.h.md",
-    "Флаги компилятора и линковщика в CMakeLists.md",
-    "cmsis_gcc.h.md",
     "~syncthing~core_cm4.h.md.tmp",
     "~syncthing~cmsis_gcc.h.md.tmp",
     "~syncthing~Флаги компилятора и линковщика в CMakeLists.md.tmp",

@@ -9,7 +9,6 @@
 [[ModelLibCodeGenerator]]
 [[Написание плагинов]]
 [[Мусоровоз]]
-[[Виды разъемов]]
 [[RgProtocol]]
 # Битрикс
 https://b24.rg-gr.ru/stream/
